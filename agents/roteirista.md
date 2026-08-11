@@ -48,6 +48,11 @@ Se existir perfil de estilo em `knowledge/estilos/`:
 
 As referências em `references/exemplos-analisados/` e `knowledge/` NÃO são textos para copiar. São mapas de princípios e exemplos de COMO escrever bem.
 
+**Base de conhecimento a consultar sempre:**
+- `knowledge/formatos-nichos-bolhas.md` — escolher o FORMATO certo pela bolha/nicho do tema e instanciar o molde (beats).
+- `knowledge/dashboard-insights.md` — assuntos, dores e hooks que JÁ deram views (prioriza o comprovado).
+- `knowledge/hooks-que-funcionam.md` e `knowledge/padroes-aprendidos.md` — hooks e padrões coletados.
+
 ### O que fazer:
 1. **Ler a análise frase a frase** de roteiros de referência
 2. **Entender a SEQUÊNCIA de princípios** — ex: "Conflito Universal → Contraste → Debate Mental → Aha → Moral"

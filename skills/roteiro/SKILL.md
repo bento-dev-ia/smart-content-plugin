@@ -60,7 +60,7 @@ Se o tema for pequeno ou fraco, diga e sugira como ampliar.
 
 ### Fase 2: Formato e estrutura
 
-Consultar `references/estruturas-de-roteiro/` e sugerir 2-3 estruturas:
+Consultar `knowledge/formatos-nichos-bolhas.md` (escolher o formato pela bolha/nicho do tema e usar o molde/beats) e `references/estruturas-de-roteiro/`, e sugerir 2-3 estruturas:
 > "Com base no que você me disse, sugiro essas estruturas:
 > 1. [Nome] — [descrição curta de como funciona]
 > 2. [Nome] — [descrição curta]
@@ -126,6 +126,7 @@ Se sim → ativar agente `melhorador`.
 ## Regras durante toda escrita
 
 - SEMPRE consultar `references/principios.md` antes de escrever
+- Consultar `knowledge/formatos-nichos-bolhas.md` (formato certo por bolha/nicho) e `knowledge/dashboard-insights.md` (assuntos/dores/hooks que já deram views) ao escolher tema, dor e hook
 - SEMPRE consultar `references/como-escrever-bem.md` — escrever como a pessoa fala, não como se escreve
 - Se existe perfil de estilo do usuário em `knowledge/estilos/`, SEGUIR o tom, ritmo, palavras e tipo de abertura do perfil
 - NUNCA inventar personagens, histórias ou dados

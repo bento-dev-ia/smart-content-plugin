@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sofia 2.0 — Dashboard de Insights</title>
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c2430; --line:#263041;
+    --txt:#e6edf3; --mut:#9aa7b4; --acc:#7c5cff; --acc2:#22d3ee;
+    --green:#31c48d; --yellow:#f2c94c; --red:#f97066;
+    --chip:#222c3a;
+  }
+  @media (prefers-color-scheme: light){
+    :root{ --bg:#f6f8fb; --panel:#ffffff; --panel2:#f0f3f8; --line:#e2e8f0;
+      --txt:#0f172a; --mut:#556070; --chip:#eef2f7; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--txt);font:15px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  .wrap{max-width:1100px;margin:0 auto;padding:28px 20px 60px}
+  header{margin-bottom:22px}
+  .kick{color:var(--acc2);font-weight:700;letter-spacing:.14em;text-transform:uppercase;font-size:12px}
+  h1{margin:.2em 0 .1em;font-size:28px;line-height:1.15}
+  .sub{color:var(--mut);font-size:14px}
+  .grid{display:grid;gap:14px}
+  .kpis{grid-template-columns:repeat(4,1fr);margin:20px 0}
+  @media(max-width:720px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px}
+  .kpi .n{font-size:26px;font-weight:800;background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
+  .kpi .l{color:var(--mut);font-size:12px;margin-top:2px}
+  section{margin-top:26px}
+  h2{font-size:18px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  h2 .dot{width:9px;height:9px;border-radius:50%;background:var(--acc)}
+  table{width:100%;border-collapse:collapse;font-size:14px;overflow:hidden;border-radius:12px}
+  .twrap{overflow-x:auto;border:1px solid var(--line);border-radius:12px}
+  th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{background:var(--panel2);color:var(--mut);font-weight:600;font-size:12px;text-transform:uppercase;letter-spacing:.04em}
+  tr:last-child td{border-bottom:none}
+  .tag{display:inline-block;font-size:11px;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--chip);color:var(--mut)}
+  .g{color:var(--green)} .y{color:var(--yellow)} .r{color:var(--red)}
+  .bar{position:relative;background:var(--panel2);border-radius:8px;height:30px;overflow:hidden;border:1px solid var(--line)}
+  .bar>span{position:absolute;left:0;top:0;bottom:0;background:linear-gradient(90deg,var(--acc),var(--acc2));opacity:.85}
+  .bar>b{position:absolute;left:10px;top:0;bottom:0;display:flex;align-items:center;font-size:13px;font-weight:700;color:#fff;mix-blend-mode:normal;z-index:2}
+  .bar>i{position:absolute;right:10px;top:0;bottom:0;display:flex;align-items:center;font-size:12px;color:var(--txt);z-index:2;font-style:normal}
+  .barrow{display:grid;grid-template-columns:190px 1fr;gap:12px;align-items:center;margin-bottom:8px}
+  @media(max-width:640px){.barrow{grid-template-columns:1fr}}
+  .barlabel{font-size:13px;color:var(--mut)}
+  ol.dores{counter-reset:d;list-style:none;padding:0;margin:0}
+  ol.dores li{counter-increment:d;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px 12px 46px;position:relative;margin-bottom:8px}
+  ol.dores li::before{content:counter(d);position:absolute;left:12px;top:12px;width:24px;height:24px;border-radius:50%;background:linear-gradient(135deg,var(--acc),var(--acc2));color:#fff;font-weight:800;font-size:13px;display:flex;align-items:center;justify-content:center}
+  .cmt{border-left:3px solid var(--acc);background:var(--panel2);border-radius:8px;padding:8px 12px;margin:6px 0}
+  .cmt .lk{color:var(--acc2);font-weight:700;font-size:12px}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:720px){.cols{grid-template-columns:1fr}}
+  .insights{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  @media(max-width:720px){.insights{grid-template-columns:1fr}}
+  .ins{background:var(--panel);border:1px solid var(--line);border-left:3px solid var(--acc2);border-radius:10px;padding:10px 12px;font-size:14px}
+  .note{color:var(--mut);font-size:12.5px;margin-top:8px}
+  code{background:var(--chip);padding:1px 6px;border-radius:6px;font-size:12.5px}
+  footer{margin-top:34px;color:var(--mut);font-size:12px;text-align:center}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="kick">Sofia 2.0 · Base de conhecimento</div>
+    <h1>Dashboard de Insights para Criar Conteúdo</h1>
+    <div class="sub">O que deu views de verdade — assuntos, dores, hooks e comentários. Janela 12 meses · corte ≥100k views · 9 influenciadores (TikTok+Instagram) + 14 vídeos analisados frase a frase.</div>
+  </header>
+
+  <div class="grid kpis">
+    <div class="card kpi"><div class="n">9</div><div class="l">influenciadores mapeados</div></div>
+    <div class="card kpi"><div class="n">14</div><div class="l">vídeos com análise profunda</div></div>
+    <div class="card kpi"><div class="n">≥100k</div><div class="l">corte de views (12 meses)</div></div>
+    <div class="card kpi"><div class="n">46,2M</div><div class="l">maior view do nicho (IA)</div></div>
+  </div>
+
+  <section>
+    <h2><span class="dot"></span>Assuntos que mais deram views</h2>
+    <div class="card">
+      <div class="barrow"><div class="barlabel">🔴 Drama/fofoca (ES) — <code>candresperedo</code></div><div class="bar"><span style="width:100%"></span><b>Polêmica viral</b><i>15,1M</i></div></div>
+      <div class="barrow"><div class="barlabel">🟢 Notícia de modelo de IA — <code>alex_intelligence</code></div><div class="bar"><span style="width:97%"></span><b>Kimi/Moonshot</b><i>46,2M*</i></div></div>
+      <div class="barrow"><div class="barlabel">🟡 "Você não usa 1% do iPhone" — <code>jeldebeloni</code></div><div class="bar"><span style="width:36%"></span><b>Dica tech PT-BR</b><i>3,8M</i></div></div>
+      <div class="barrow"><div class="barlabel">🟢 Build-in-public + CTA — <code>onegirlstack</code></div><div class="bar"><span style="width:22%"></span><b>Comunidade</b><i>2,2M</i></div></div>
+      <div class="barrow"><div class="barlabel">🟢 Série "coisas que dá pra fazer" — <code>practicalyai</code></div><div class="bar"><span style="width:17%"></span><b>Série de utilidades</b><i>1,7M</i></div></div>
+      <div class="barrow"><div class="barlabel">🟢 Claude+Obsidian / renda — <code>jaredrhod</code></div><div class="bar"><span style="width:13%"></span><b>Sistema + prova</b><i>1,2M</i></div></div>
+      <div class="note">*Barras em escala relativa (topo = 15,1M do drama). No seu nicho (IA), o teto vem de <b>notícia/comparação de modelos</b>, <b>séries de utilidade</b> e <b>renda com sistema</b>. Fora do nicho, quem manda é <b>dinheiro</b> e <b>drama</b>.</div>
+    </div>
+  </section>
+
+  <section>
+    <h2><span class="dot"></span>Principais dores que deram views</h2>
+    <ol class="dores">
+      <li><b>"Minha IA entrega genérico (slop)."</b> — a dor que vende skill + contexto.</li>
+      <li><b>"Não sei quais skills instalar nem como instalar."</b> — dúvida operacional nº1 nos comentários.</li>
+      <li><b>"Quero ganhar dinheiro com IA, mas não sei o caminho."</b> — tema de teto máximo.</li>
+      <li><b>"Tenho medo de ficar pra trás no trabalho."</b> — FOMO profissional.</li>
+      <li><b>"Tarefas repetitivas me consomem (email, slides, planilha)."</b></li>
+      <li><b>"Parece complicado demais pra começar."</b></li>
+      <li><b>"Não uso nem 1% da ferramenta que já tenho."</b> — transponível de iPhone → IA.</li>
+    </ol>
+    <div class="note">Dores <b>1, 2 e 5</b> são as mais alinhadas ao produto do criador e as que mais convertem em low-ticket.</div>
+  </section>
+
+  <section>
+    <h2><span class="dot"></span>Hooks que deram mais certo</h2>
+    <div class="twrap"><table>
+      <tr><th>Hook (verbatim)</th><th>Princípios</th><th>Fonte</th><th>Views</th></tr>
+      <tr><td>"Most people don't realize there's over 60,000 Claude skills. I tested 100…"</td><td>Curiosidade + Autoridade</td><td>@ray_fu</td><td>alta</td></tr>
+      <tr><td>"5 Claude skills… to get ahead of 99% of people"</td><td>Status + Curiosidade</td><td>@maverickgpt</td><td>alta</td></tr>
+      <tr><td>"I own 3 businesses run by AI, one makes $100k a month"</td><td>Prova (dinheiro) + Identidade</td><td>@jaredrhod</td><td>1,2M</td></tr>
+      <tr><td>"Kimi k2.5 is out! China just released an AI that…"</td><td>Newsjacking + Conflito</td><td>@alex_intelligence</td><td>46,2M</td></tr>
+      <tr><td>"AI companies are literally shredding books…"</td><td>Indignação + Curiosidade</td><td>@alex_intelligence</td><td>2,2M</td></tr>
+      <tr><td>"Things you didn't know you can do with Claude (part N)"</td><td>Série (loop) + Curiosidade</td><td>@practicalyai</td><td>1,7M</td></tr>
+      <tr><td>"Provando que você usa menos de 1% do seu iPhone"</td><td>Familiaridade + Conflito</td><td>@jeldebeloni</td><td>1,5M</td></tr>
+      <tr><td>"…Cowork just released. You'll be at a disadvantage"</td><td>FOMO + Novidade</td><td>@coffeewithsimon</td><td>alta</td></tr>
+      <tr><td>"follow me + drop the thing — comment gets a demo"</td><td>Engajamento externo</td><td>@onegirlstack</td><td>2,2M</td></tr>
+      <tr><td class="r">⚠ "Five secret Claude codes nobody is talking about"</td><td>Segredo (conteúdo falso — só a forma)</td><td>@insiderforce</td><td>alta</td></tr>
+    </table></div>
+    <div class="note"><b>Padrão-mestre:</b> a 1ª frase é a manchete. Três sabores — <b>choque/notícia</b>, <b>promessa numérica</b>, <b>prova/demo</b>. Nunca "oi pessoal / hoje eu vou".</div>
+  </section>
+
+  <section>
+    <h2><span class="dot"></span>Comentários mais curtidos (o que a audiência externaliza)</h2>
+    <div class="cols">
+      <div class="card">
+        <b>@alex_intelligence — "livros triturados"</b>
+        <div class="cmt"><span class="lk">61,9k</span> · "Sounds familiar"</div>
+        <div class="cmt"><span class="lk">30,5k</span> · "Removing public access to knowledge and putting a price on it"</div>
+        <div class="cmt"><span class="lk">21,4k</span> · "crime against humanity"</div>
+        <div class="note">Vídeo monetiza indignação coletiva; termina acusando, sem CTA → enche a caixa de comentário.</div>
+      </div>
+      <div class="card">
+        <b>@maverickgpt — "5 skills"</b>
+        <div class="cmt"><span class="lk">1,4k</span> · alguém <b>listando as skills</b> pros outros (o público faz seu índice)</div>
+        <div class="cmt"><span class="lk">697</span> · "não instalei nenhuma skill e o Claude já faz tudo" (objeção-gancho)</div>
+        <div class="note">Dúvida nº1 nos comentários é <b>operacional ("como instalo")</b> → pauta garantida.</div>
+      </div>
+    </div>
+    <div class="note">⚠️ Comentários reais só do lote (piloto). Para os 9 influenciadores novos falta um scrape dedicado de comentários — está nas pendências.</div>
+  </section>
+
+  <section>
+    <h2><span class="dot"></span>Formatos campeões</h2>
+    <div class="twrap"><table>
+      <tr><th>Formato</th><th>Onde brilha</th><th>Gatilho de engajamento</th></tr>
+      <tr><td><b>Série numerada</b> ("Parte N" / "Dia N")</td><td>IA e Tech PT-BR</td><td>follow + salvar</td></tr>
+      <tr><td><b>Newsjacking</b> ("saiu agora")</td><td>IA (modelos/features)</td><td>debate / compartilhar</td></tr>
+      <tr><td><b>Listicle de skills</b></td><td>IA</td><td>comenta-palavra (lead)</td></tr>
+      <tr><td><b>Prova de renda</b> / caso real</td><td>dinheiro / negócio</td><td>comentário + debate</td></tr>
+      <tr><td><b>Prova crua</b> / descoberta ao vivo</td><td>qualquer (PT-BR)</td><td>identificação</td></tr>
+      <tr><td><b>Polêmica</b> / indignação</td><td>alcance máximo</td><td>comentário (debate)</td></tr>
+    </table></div>
+  </section>
+
+  <section>
+    <h2><span class="dot"></span>Insights acionáveis</h2>
+    <div class="insights">
+      <div class="ins">1. <b>1ª frase = manchete</b> (choque, número ou prova). Corte a introdução.</div>
+      <div class="ins">2. <b>1 insert visual forte</b> por vídeo (print, screen recording, número na tela).</div>
+      <div class="ins">3. <b>Série</b> = constância + retenção. "Skills" e "coisas que dá pra fazer" comportam dezenas.</div>
+      <div class="ins">4. <b>Ancore o nicho em ponte universal</b> (dinheiro/tempo/medo) pra furar a bolha.</div>
+      <div class="ins">5. <b>Comenta-palavra</b> só pra lead; pra alcance, prefira <b>debate</b> e <b>compartilhar</b>.</div>
+      <div class="ins">6. <b>"Como instalo"</b> é pauta perene — responda nos vídeos seguintes.</div>
+      <div class="ins">7. <b>Newsjacking honesto</b>: "saiu agora" só quando é real (é o que dá 25–46M).</div>
+      <div class="ins">8. <b>Nunca inventar</b>: copie a forma do "segredo", com conteúdo verdadeiro.</div>
+    </div>
+  </section>
+
+  <footer>Gerado para a Sofia 2.0 · fonte em <code>knowledge/dashboard-insights.md</code> · formatos em <code>knowledge/formatos-nichos-bolhas.md</code></footer>
+</div>
+</body>
+</html>
