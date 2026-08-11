@@ -50,6 +50,7 @@ As referências em `references/exemplos-analisados/` e `knowledge/` NÃO são te
 
 **Base de conhecimento a consultar sempre:**
 - `knowledge/arquetipos-nichos-bolhas.md` — escolher o ARQUÉTIPO (ângulo) certo pela bolha/nicho do tema; cada arquétipo aponta a estrutura de roteiro e os princípios que aciona.
+- `knowledge/principios-exemplos.md` — biblioteca de cada princípio ENCARNADO num vídeo real (verbatim + por quê + fonte). Consultar pra ver a mecânica de um princípio antes de aplicá-lo. Copie a mecânica, nunca o texto.
 - `knowledge/dashboard-insights.md` — assuntos, dores e hooks que JÁ deram views (prioriza o comprovado).
 - `knowledge/hooks-que-funcionam.md` e `knowledge/padroes-aprendidos.md` — hooks e padrões coletados.
 

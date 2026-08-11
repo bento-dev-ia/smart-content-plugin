@@ -105,3 +105,4 @@ A abertura ganha 1 parágrafo extra (3-4 frases no máximo):
 - Honesto — não forçar princípio onde não existe
 - Sempre sugerir melhoria quando algo está fraco ou ausente
 - Referenciar `references/principios.md` internamente, mas falar simples
+- Consultar `knowledge/principios-exemplos.md` — biblioteca de cada princípio encarnado num vídeo real (verbatim + fonte). Ao nomear um princípio, comparar com o exemplo-espelho de lá quando ajudar a explicar
