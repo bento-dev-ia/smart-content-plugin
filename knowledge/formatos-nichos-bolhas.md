@@ -2,7 +2,7 @@
 title: Formatos, Nichos e Bolhas
 updated: 2026-08-10
 tags: [sofia, knowledge, formatos, nichos, bolhas]
-fonte: "Descoberta 12m de 9 influenciadores (TikTok+Instagram, +100k views) + lote Tela Verde (14 vídeos analisados)"
+fonte: "Descoberta 12m de 9 influenciadores (TikTok+Instagram, +100k views) + lote Tela Verde (14 vídeos) + Lote Enriquecimento (13 vídeos, 2026-08-10): F11–F13, sub-padrões e playbook de retenção"
 uso: "Consultar ANTES de roteirizar. Escolher o formato pela bolha/nicho do tema, instanciar o molde, checar princípios."
 ---
 
@@ -97,6 +97,46 @@ Cada formato tem: **quando usar**, **momentos do roteiro (beats)**, **princípio
 - **Gatilho externo:** debate de fandom + salvar.
 - **Evidência:** 🟢 @alex_intelligence (Kimi vs Claude/ChatGPT); Cluster A dos Assuntos Extraídos.
 - **Erro comum:** comparação sem veredito claro; escolher métrica que o público não liga.
+
+### F11. Esquete / humor com marcas de IA personificadas
+- **Quando usar:** máximo compartilhamento via humor + verdade incômoda; PT-BR.
+- **Beats:** (1) personagens = as ferramentas de IA personificadas (ChatGPT, Claude, Gemini, Copilot) num diálogo → (2) elas expõem uma verdade social ("a gente faz todo o trabalho e vocês levam o crédito") → (3) punch que escala o absurdo ("tem empresa que eu sou todos os funcionários").
+- **Princípios:** Familiaridade (todo mundo conhece as marcas) + Conflito (sátira) + humor/identificação.
+- **Gatilho externo:** **compartilhar** (é engraçado E é real) + debate.
+- **Evidência:** 🟡 @lara_santana 513k views, 131k likes, 7.9k reposts.
+- **Erro comum:** piada sem verdade por trás (não gera "é real demais"); personagem fora do que o público reconhece.
+
+### F12. Conselho aspiracional / mindset (motor de compartilhamento)
+- **Quando usar:** furar a bolha via ponte universal (dinheiro/tempo/mentalidade); conteúdo que a pessoa **manda pra alguém** ou salva como bandeira.
+- **Beats:** (1) promessa de transformação + "escuta o que eu tô te falando" → (2) **uma tese só** → (3) **instrução concreta e física** (não abstrata: "vai num bairro de rico, toma um café, senta na cadeira") → (4) antítese de crença ("o pobre pensa pequeno porque é só o que ensinam"). Geralmente **sem CTA**.
+- **Princípios:** Familiaridade (a dor/crença atual) + Conflito de crença + Identidade aspiracional.
+- **Gatilho externo:** **compartilhar/repost** (conselho citável) + salvar.
+- **Evidência:** 🔴 @eusouroberth 1.0M views, **18.4k reposts** (taxa de share altíssima).
+- **Erro comum:** conselho abstrato ("mude sua mentalidade") sem a instrução física concreta; mais de uma tese no mesmo vídeo.
+
+### F13. Debate / aposta pública
+- **Quando usar:** prender pela tensão de um confronto; temas com dois lados (tempo, dinheiro, método).
+- **Beats:** (1) afirmação polêmica → (2) contestação/réplica ao vivo → (3) **aposta pública** ("se X não for verdade, eu te pago Y") → (4) fecho com **conta de padeiro** que desarma a objeção ("mesmo se você falhar, dá tanto").
+- **Princípios:** Conflito (bate-boca) + Curiosidade (quem ganha) + Tema dinheiro + prova por número extremo.
+- **Gatilho externo:** debate + compartilhar.
+- **Evidência:** 🔴 @musametas 3.8M (clipping/renda).
+- **Erro comum:** aposta vazia (sem risco real percebido) ou conta de padeiro sem número honesto.
+
+### Sub-padrões de gancho (variações que já viralizaram)
+- **Documento/relatório secreto + autoridade:** "Fulano publicou um documento que ninguém leu — e ensina X" + **plante uma frase e prometa voltar nela** ("guarda essa frase"). 🟢 @maestrosdaia 45k · retenção.
+- **"Esqueça [pago], use [grátis]":** largar a ferramenta cara → nome do grátis → demo no automático → clímax "self-hosted 100% grátis". 🟢 @jackroberts.
+- **Mito vs verdade (cuidado com o atalho):** dá voz à crença comum → "muito cuidado" (freada) → porquê técnico. Educa sem soar arrogante. 🟢 @rodrigotadewald.
+- **Skill nova + uso não-óbvio:** apresenta a novidade → "mas o melhor uso não é o óbvio" → o insight vira o gancho. 🟢 @jackroberts 135k.
+- **Notícia-alarme (newsjacking jornalístico):** enquadramento neutro de veículo, escalando com números reais. 🔴 @bbcnews 1.4M. Usar **honesto**.
+
+### Playbook de retenção (storytelling) — extraído de @mino.mp4 (50M views)
+Aplicar dentro de qualquer formato narrativo:
+1. **Hook** = objetivo + conflito específicos ("dá pra tirar 10 na prova estudando 1h?").
+2. **Click confirmation** (rising action) = mostrar o protagonista **agindo** rumo ao objetivo; B-roll pra vender a dificuldade. *(É onde a maioria erra: pula essa parte.)*
+3. **Segundo conflito** = introduzir uma **queda no meio** — as melhores histórias sobem e descem, não vão em linha reta.
+4. **Clímax** = a virada/resultado.
+5. **Lição** = fecho que sai do personagem e vem pro público.
+> Regra de ouro do playbook: **plante um segundo conflito no meio do vídeo** — é o que segura a retenção depois do hook.
 
 ---
 
