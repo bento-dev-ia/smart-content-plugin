@@ -2,7 +2,7 @@
 title: Formatos, Nichos e Bolhas
 updated: 2026-08-10
 tags: [sofia, knowledge, formatos, nichos, bolhas]
-fonte: "Descoberta 12m de 9 influenciadores (TikTok+Instagram, +100k views) + lote Tela Verde (14 vídeos) + Lote Enriquecimento (13 vídeos, 2026-08-10): F11–F13, sub-padrões e playbook de retenção"
+fonte: "Descoberta 12m de 9 influenciadores (TikTok+Instagram, +100k views) + lote Tela Verde (14 vídeos) + Lote Enriquecimento (13 vídeos, 2026-08-10): F11–F13, sub-padrões e playbook de retenção + @alberta.nyc (30 vídeos 2026, +100k): F14–F15 (esquete de cena, hot-take)"
 uso: "Consultar ANTES de roteirizar. Escolher o formato pela bolha/nicho do tema, instanciar o molde, checar princípios."
 ---
 
@@ -121,6 +121,24 @@ Cada formato tem: **quando usar**, **momentos do roteiro (beats)**, **princípio
 - **Gatilho externo:** debate + compartilhar.
 - **Evidência:** 🔴 @musametas 3.8M (clipping/renda).
 - **Erro comum:** aposta vazia (sem risco real percebido) ou conta de padeiro sem número honesto.
+
+### F14. Esquete de cena — 1 pessoa, 2+ personagens (sátira da própria bolha)
+- **Quando usar:** máximo compartilhamento; satirizar a cultura do seu nicho com humor. O criador interpreta os dois lados de uma cena.
+- **Beats:** (1) abrir **no meio** de uma cena absurda, com uma frase-choque ("Por que recebi uma conta de 700 mil da OpenAI?") → (2) o outro personagem responde com lógica ainda mais furada → (3) **escalada** (cada réplica sobe o absurdo) → (4) corte seco, **sem CTA**. No fundo, sempre uma **verdade incômoda real** (custo, layoff, hipocrisia, medo).
+- **Princípios:** Familiaridade (a cena é reconhecível) + Conflito (contraste entre quem não entende e quem sofre) + humor.
+- **Gatilho externo:** identificação + **compartilhar** (o público marca o colega).
+- **Evidência:** 🟢/🔴 @alberta.nyc — appy-bill 1.3M, illegal-hiring 1.3M, stole-jobs-egos 715k, every-ceo 369k (todos 2026).
+- **Erro comum:** piada sem verdade por trás (não gera "é a minha vida"); personagem que o público não reconhece; enfiar CTA (mata o share).
+
+### F15. Hot-take contrária rápida (direto na câmera)
+- **Quando usar:** debate + share; uma tese polêmica defendida em rajada.
+- **Beats:** (1) **tese contraintuitiva** na 1ª frase ("Tech debt não existe" / "Cansei de me acusarem de usar IA" / "Por que todo mundo programa em chinês agora?") → (2) 2–4 argumentos rápidos, cada um mais afiado/absurdo → (3) fecho seco.
+- **Princípios:** Conflito de crença + Curiosidade (como ele vai defender isso?) + ritmo.
+- **Gatilho externo:** debate + compartilhar.
+- **Evidência:** 🟢/🔴 @alberta.nyc — hand-written 265k, save-dollars-cc 181k, grok-twitter 529k, bobby-tables 156k.
+- **Erro comum:** tese morna (não gera atrito) ou justificativa lenta; a rajada precisa acelerar, não explicar demais.
+
+> **Princípio transversal (da @alberta.nyc):** toda piada/sátira **embala uma verdade real** do público (uma dor, um medo, uma hipocrisia). Humor sem verdade não compartilha. E a notícia, quando usada, é **real** — o exagero é a piada, nunca o fato.
 
 ### Sub-padrões de gancho (variações que já viralizaram)
 - **Documento/relatório secreto + autoridade:** "Fulano publicou um documento que ninguém leu — e ensina X" + **plante uma frase e prometa voltar nela** ("guarda essa frase"). 🟢 @maestrosdaia 45k · retenção.

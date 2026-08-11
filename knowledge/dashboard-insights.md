@@ -2,7 +2,7 @@
 title: Dashboard de Insights (assuntos, dores, hooks, comentários)
 updated: 2026-08-10
 tags: [sofia, knowledge, dashboard, insights, hooks, dores]
-fonte: "Descoberta 12m de 9 influenciadores (+100k views) + lote Tela Verde (14 vídeos) + Lote Enriquecimento (13 vídeos, 2026-08-10)"
+fonte: "Descoberta 12m de 9 influenciadores (+100k views) + lote Tela Verde (14 vídeos) + Lote Enriquecimento (13 vídeos, 2026-08-10) + @alberta.nyc (30 vídeos de 2026, +100k, sátira tech-IA)"
 uso: "Consultar ao escolher tema, dor e hook. Prioriza o que já provou dar views."
 versao_visual: "docs/dashboard.html"
 ---
@@ -32,6 +32,8 @@ Insights acionáveis extraídos de vídeos reais com alto desempenho. Serve à S
 | 🔴 Renda/criador (EN) | **Debate/aposta sobre ganhar com clipes** | @musametas 3.8M |
 | 🟢 IA (PT) | **"Documento da Anthropic ensina a criar empresa de IA"** | @maestrosdaia 45k |
 | 🟢 IA (PT) | **Ferramenta que surpreende** (crie música/site com IA) | @pedrodaniel.ia 188k |
+| 🔴/🟢 Sátira tech-IA (EN) | **Esquete satirizando IA no trabalho** (custo de token, vibe coding, layoff) | @alberta.nyc 1.2–8.3M |
+| 🔴/🟢 Sátira tech-IA (EN) | **Hot-take contrária** ("tech debt não existe", "IA não te deixa burro") | @alberta.nyc 156–529k |
 
 **Leitura:** dentro do seu nicho (IA), os 4 assuntos que mais escalam são **novidade/comparação de modelos**, **série de utilidades**, **renda com sistema (Obsidian)** e **build-in-public**. Fora do nicho, o que escala é **dinheiro** e **drama** — bolhas de teto máximo.
 
@@ -75,6 +77,8 @@ Ordenadas por transversalidade (quanto mais gente sente, maior o teto). Base: an
 | "I copied a Hollywood storytelling technique and it got me 50 million views" | Curiosidade + Prova (número) + Autoridade | @mino.mp4 | 141k |
 | "If your screen time is under 2h, I'll give you $1,000" | Aposta pública + Conflito | @musametas | 3.8M |
 | "Galera, ferrou. A gente [as IAs] vai ter que dominar o mundo" | Familiaridade (marcas) + humor/sátira | @lara_santana | 513k |
+| "Por que recebi uma conta de 700 mil da OpenAI?" (esquete de cena) | Absurdo + verdade real (custo) + escalada | @alberta.nyc | 1.3M |
+| "Tech debt não existe." / "Cansei de me acusarem de escrever código com IA" | Hot-take contrária + rajada | @alberta.nyc | 156–265k |
 
 **Padrão-mestre:** 1ª frase = manchete. Sabores comprovados: **choque/notícia**, **promessa numérica**, **prova/demo**, **conselho aspiracional** e **aposta pública**. Nenhum usa "oi pessoal / hoje eu vou".
 
@@ -129,6 +133,7 @@ Vários vídeos viralizam por **repost**, não por comentário. Alto share = a p
 9. **Share é gatilho de 1ª classe** — conselho universal citável, humor com verdade, ou notícia repassável geram repost (às vezes > comentário). Pra share, muitas vezes **corte o CTA**.
 10. **Plante um "segundo conflito" no meio** do vídeo narrativo (playbook @mino.mp4, 50M) — é o que segura a retenção depois do hook.
 11. **Ancore o nicho numa ponte universal:** neste lote, os 🟢 de nicho puro (45k, 13k, 11k) renderam menos que os ancorados em dinheiro/humor/alarme (1–3.8M). Técnica boa não salva tema de teto baixo.
+12. **Sátira da própria bolha é o formato de maior share** (@alberta.nyc): esquete de cena (você faz os 2 lados) e hot-take contrária. Regra: **toda piada embala uma verdade real** do público; sem verdade, não compartilha. Corte o CTA.
 
 ---
 
