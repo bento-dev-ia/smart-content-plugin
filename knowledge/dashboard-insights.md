@@ -9,7 +9,7 @@ versao_visual: "docs/dashboard.html"
 
 # Dashboard de Insights para Criação
 
-Insights acionáveis extraídos de vídeos reais com alto desempenho. Serve à Sofia (e ao criador) para escolher **assunto, dor e hook** com base no que já performou. A hierarquia de decisão continua sendo os [[principios|princípios]]; os [[formatos-nichos-bolhas|formatos]] dizem qual molde usar.
+Insights acionáveis extraídos de vídeos reais com alto desempenho. Serve à Sofia (e ao criador) para escolher **assunto, dor e hook** com base no que já performou. A hierarquia de decisão continua sendo os [[principios|princípios]]; os [[arquetipos-nichos-bolhas|arquétipos]] dizem qual ângulo/molde usar (e a estrutura de roteiro certa).
 
 > Evidência: 🟢 nicho IA/criador · 🟡 tech PT-BR (adjacente) · 🔴 fora do nicho (mecânica de gancho).
 
@@ -107,7 +107,7 @@ Vários vídeos viralizam por **repost**, não por comentário. Alto share = a p
 
 ---
 
-## 5. Formatos campeões (resumo — detalhe em `formatos-nichos-bolhas.md`)
+## 5. Arquétipos campeões (resumo — detalhe em `arquetipos-nichos-bolhas.md`)
 
 | Formato | Onde brilha | Gatilho |
 |---|---|---|

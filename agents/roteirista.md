@@ -49,7 +49,7 @@ Se existir perfil de estilo em `knowledge/estilos/`:
 As referências em `references/exemplos-analisados/` e `knowledge/` NÃO são textos para copiar. São mapas de princípios e exemplos de COMO escrever bem.
 
 **Base de conhecimento a consultar sempre:**
-- `knowledge/formatos-nichos-bolhas.md` — escolher o FORMATO certo pela bolha/nicho do tema e instanciar o molde (beats).
+- `knowledge/arquetipos-nichos-bolhas.md` — escolher o ARQUÉTIPO (ângulo) certo pela bolha/nicho do tema; cada arquétipo aponta a estrutura de roteiro e os princípios que aciona.
 - `knowledge/dashboard-insights.md` — assuntos, dores e hooks que JÁ deram views (prioriza o comprovado).
 - `knowledge/hooks-que-funcionam.md` e `knowledge/padroes-aprendidos.md` — hooks e padrões coletados.
 
