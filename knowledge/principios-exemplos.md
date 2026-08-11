@@ -27,9 +27,14 @@ Cada princípio de `references/principios.md` com o **melhor exemplo real** enco
 - **Fonte:** 🟢 @alberta.nyc · [vídeo](https://www.tiktok.com/@alberta.nyc/video/7646856294296538382) · baixado: `conflito-mostrando__alberta-appybill.mp4`
 
 ### 1c. Tema de nicho ancorado numa ponte universal
-- **Verbatim:** "I own 3 businesses run by AI — one makes $100,000 a month."
-- **Por que é TEMA:** nicho (IA) montado sobre dinheiro (universal). É assim que um tema de nicho fura a bolha.
-- **Fonte:** 🟢 @jaredrhod · 1.2M.
+- **Verbatim:** "I own three businesses run by AI, one makes $100,000 a month… I'm telling you this because I need your attention. Get on board or get left behind."
+- **Por que é TEMA:** nicho (IA) montado sobre dinheiro + medo de ficar pra trás (universais). É assim que um tema de nicho fura a bolha.
+- **Fonte:** 🟢 @jaredrhod · 1.2M · [vídeo](https://www.tiktok.com/@jaredrhod/video/7655121681228369165) · baixado: `tema-dinheiro-2__jaredrhod.mp4`
+
+### 1d. Tema dinheiro — caso concreto (renda passiva)
+- **Verbatim:** "You can build a faceless YouTube channel that makes 8k a month… Don't pick a niche that you like, pick one that pays."
+- **Por que é TEMA:** dinheiro + resultado concreto ($8k/mês); a segunda frase ainda entra em atrito com uma crença ("faça o que ama").
+- **Fonte:** 🟢 @ray_fu · [vídeo](https://www.tiktok.com/@ray_fu/video/7639961828809837855) · baixado: `conflito-atrito-2__ray_fu.mp4`
 
 ---
 
@@ -44,6 +49,16 @@ Cada princípio de `references/principios.md` com o **melhor exemplo real** enco
 - **Verbatim:** "I am so tired of being accused of writing AI code. I can write bad code all on my own."
 - **Por que é FAM. DE IDENTIDADE:** o público (dev) compartilha pra afirmar "eu sou de verdade". Compartilhar vira crachá de identidade → 265k views, **4.2k shares**.
 - **Fonte:** 🟢 @alberta.nyc · [vídeo](https://www.tiktok.com/@alberta.nyc/video/7665383488580766990) · baixado: `fam-identidade__alberta-handwritten.mp4`
+
+### 2c. Familiaridade de MEMÓRIA — PT-BR (a dor doméstica banal)
+- **Verbatim:** "Assinei esse Claude Code… a primeira coisa era atualizar uma planilha velha minha que tava horrível… ele refez toda a planilha."
+- **Por que é FAM. DE MEMÓRIA:** a planilha bagunçada que todo mundo tem — identificação imediata em PT-BR. É o molde PT-BR mais espelhável.
+- **Fonte:** 🟢 @will_esl · [vídeo](https://www.tiktok.com/@will_esl/video/7621170001743023380) · baixado: `fam-memoria-2-ptbr__will_esl.mp4`
+
+### 2d. Familiaridade de MEMÓRIA — a dor de uma tarefa chata
+- **Verbatim:** "Como usar o Claude pra fazer apresentações lindas na sua marca. É o que mais me perguntam nos workshops."
+- **Por que é FAM. DE MEMÓRIA:** ativa a memória do inferno de fazer slide; a prova social ("o que mais me perguntam") reforça.
+- **Fonte:** 🟢 @willfrancis24 · [vídeo](https://www.tiktok.com/@willfrancis24/video/7629019066505678083) · baixado: `aha-entregue-2__willfrancis.mp4`
 
 ---
 
@@ -64,6 +79,11 @@ Cada princípio de `references/principios.md` com o **melhor exemplo real** enco
 - **Por que é ATIVAR MEMÓRIA:** aciona a irritação já existente com bios pretensiosos; a carga emocional já estava lá antes do vídeo. 224k.
 - **Fonte:** 🟢 @alberta.nyc · [vídeo](https://www.tiktok.com/@alberta.nyc/video/7662118303241997581) · baixado: `conflito-memoria__alberta-bio.mp4`
 
+### 3d. Conflito por ATRITO — FOMO (medo de ficar pra trás)
+- **Verbatim:** "O MS365 Copilot lançou o Cowork com Claude. Se você não usa Cowork no trabalho hoje, você vai estar em desvantagem."
+- **Por que é ATRITO + Tema:** entra em conflito com a zona de conforto ("tô bem sem isso") e usa novidade real; o medo de ficar pra trás é a virada na cabeça.
+- **Fonte:** 🟢 @coffeewithsimon · [vídeo](https://www.tiktok.com/@coffeewithsimon/video/7646238765765119250) · baixado: `conflito-fomo__coffeewithsimon.mp4`
+
 ---
 
 ## 4. CURIOSIDADE E DEBATE MENTAL (lacuna aberta e sustentada)
@@ -83,6 +103,16 @@ Cada princípio de `references/principios.md` com o **melhor exemplo real** enco
 - **Por que é CURIOSIDADE:** a lacuna ("qual técnica?") é aberta e adiada; o número dá peso. Ver também o playbook de retenção abaixo.
 - **Fonte:** 🟢 @mino.mp4 · [vídeo](https://www.tiktok.com/@mino.mp4/video/7669877821069593886) · baixado: `retencao-2oconflito__mino.mp4`
 
+### 4d. Lacuna de CURADORIA (autoridade filtra o excesso)
+- **Verbatim:** "Poucos sabem que existem mais de 60 mil skills do Claude. Testei mais de 100 — e essas são as únicas que importam."
+- **Por que é CURIOSIDADE:** o número gigante cria a lacuna ("quais importam?") e a autoridade (testei 100) promete fechá-la — a pessoa fica pra descobrir o filtro.
+- **Fonte:** 🟢 @ray_fu · [vídeo](https://www.tiktok.com/@ray_fu/video/7620258917662133534) · baixado: `curiosidade-curadoria__ray_fu.mp4`
+
+### 4e. Lacuna de SÉRIE (loop permanente + follow)
+- **Verbatim:** "Coisas que você não sabia que dá pra fazer com o Claude — parte 8… segue pra aprender todas."
+- **Por que é CURIOSIDADE:** a série é um loop aberto permanente; cada vídeo abre e fecha uma micro-lacuna e aponta pra próxima. O "segue pra aprender todas" transforma curiosidade em follow.
+- **Fonte:** 🟢 @practicalyai · [vídeo](https://www.tiktok.com/@practicalyai/video/7615423604368493842) · baixado: `serie-curiosidade__practicalyai.mp4`
+
 ---
 
 ## 5. AHA E AUSÊNCIA DELIBERADA
@@ -91,6 +121,16 @@ Cada princípio de `references/principios.md` com o **melhor exemplo real** enco
 - **Verbatim:** "Dá só uma olhada no que ele fez pra mim." (mostra a música pronta gerada pela IA).
 - **Por que é AHA ENTREGUE:** depois de "acessa → digita", entrega o resultado — a recompensa proporcional ao pequeno custo. Gera salvamento.
 - **Fonte:** 🟢 @pedrodaniel.ia · [vídeo](https://www.tiktok.com/@pedrodaniel.ia/video/7593487351540927762) · baixado: `aha-entregue__pedrodaniel.mp4`
+
+### 5a-bis. Aha ENTREGUE — resultado on-brand (tutorial-demo)
+- **Verbatim:** "Você só precisa treinar o Claude e ele faz um trabalho fantástico… funciona no plano grátis ou pago."
+- **Por que é AHA ENTREGUE:** mostra o deck pronto e derruba objeções (grátis/pago) — a utilidade entregue faz salvar.
+- **Fonte:** 🟢 @willfrancis24 · [vídeo](https://www.tiktok.com/@willfrancis24/video/7629019066505678083) · baixado: `aha-entregue-2__willfrancis.mp4`
+
+### 5a-ter. Aha ENTREGUE — "just like that" (novidade + demo)
+- **Verbatim:** "O Claude agora faz vídeos em estilo cartoon. Olha… e pronto, o seu vídeo tá feito."
+- **Por que é AHA ENTREGUE:** o "just like that / e pronto" é o momento-recompensa; novidade + resultado imediato.
+- **Fonte:** 🟢 @carter.braydon · [vídeo](https://www.tiktok.com/@carter.braydon/video/7640705714633051422) · baixado: `aha-entregue-3__carter.mp4`
 
 ### 5b. AUSÊNCIA DELIBERADA (não fecha; externaliza pro comentário/compartilhamento)
 - **Verbatim:** "AI companies are literally shredding books…" — termina **acusando**, sem CTA.
@@ -119,6 +159,28 @@ Cada princípio de `references/principios.md` com o **melhor exemplo real** enco
 
 ## Playbook de retenção (onde os princípios entram no tempo do vídeo)
 Extraído de @mino.mp4 (50M): (1) **Hook** = objetivo + conflito → (2) **ação** rumo ao objetivo → (3) **segundo conflito no meio** (uma queda) → (4) **clímax** → (5) **lição**. O "segundo conflito no meio" é o Conflito e Mudança aplicado **no miolo** pra não perder retenção depois do hook.
+
+---
+
+## 8. Familiaridade BAIXA (onboarding didático) + compartilhamento embutido
+
+### 8a. "Do zero em 60 segundos" (reduz o custo de entrada do iniciante)
+- **Verbatim:** "Te explico o Claude do zero em 60 segundos. O Claude tem três modos…" (ES).
+- **Por que:** promessa de baixo custo cognitivo pra quem não conhece nada; estrutura clara (3 modos) prende o iniciante.
+- **Fonte:** 🟢 @luzzidigital · [vídeo](https://www.tiktok.com/@luzzidigital/video/7645442796740119828) · baixado: `familiaridade-baixa-es__luzzidigital.mp4`
+
+### 8b. Compartilhamento embutido ("manda pro amigo")
+- **Verbatim:** "Um guia bem simples do Claude pra quem tá começando. Manda pra qualquer pessoa que precise de uma explicação simples."
+- **Por que:** o gatilho de share vem no roteiro ("manda pra alguém"); o vídeo é desenhado pra ser reenviado, não só assistido.
+- **Fonte:** 🟢 @willfrancis24 · [vídeo](https://www.tiktok.com/@willfrancis24/video/7629800324475407619) · baixado: `compartilhamento__willfrancis.mp4`
+
+---
+
+## ⚠️ 9. ANTI-EXEMPLO — a curiosidade que vira mentira (NUNCA fazer)
+- **Verbatim:** "Cinco códigos secretos do Claude que ninguém comenta. Número um, /ghost: passa em qualquer detector de IA…"
+- **Por que é ANTI-EXEMPLO:** a mecânica de curiosidade/segredo é forte, MAS os "códigos" **não existem** — é informação falsa. Viola a regra nº1 da Sofia (**nunca inventar**). Pega views curtas e queima a confiança/autoridade a médio prazo.
+- **Lição pra Sofia:** copie a **forma** do "segredo/lista numerada", com **conteúdo verdadeiro e verificável**. A curiosidade honesta retém igual e não destrói a marca.
+- **Fonte:** 🔴 @insiderforce · [vídeo](https://www.tiktok.com/@insiderforce/video/7633454570873654544) · baixado: `antiexemplo-inventar__insiderforce.mp4`
 
 ---
 
