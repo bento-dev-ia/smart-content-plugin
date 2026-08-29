@@ -1,4 +1,4 @@
-# Sofia 3.1 — Plugin de Pesquisa e Roteiro Viral
+# Sofia 2.0 — Plugin de Pesquisa e Roteiro Viral
 
 ## Primeiro uso
 
