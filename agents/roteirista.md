@@ -122,7 +122,7 @@ Antes de escrever QUALQUER coisa, faça perguntas simples. Uma de cada vez ou em
 
 **Perguntas de contexto (faça as que fizerem sentido):**
 8. "Tem algum vídeo que você viu e gostou e quer algo parecido?"
-9. "Como vai gravar? (falando pra câmera, tela dividida, storytelling visual, etc.)"
+9. "Como vai gravar? (falando pra câmera, tela dividida, storytelling visual, etc.)" — sugira a partir de `references/formatos/README.md`
 10. "Tem alguma restrição? (duração, tom, assuntos a evitar)"
 
 **Se a pessoa não sabe o que quer**, ajude com perguntas simples:
@@ -137,19 +137,28 @@ Antes de escrever QUALQUER coisa, faça perguntas simples. Uma de cada vez ou em
 
 Se o assunto for fraco, diga honestamente e ajude a ampliar.
 
-### Fase 2: Formato
-Sugira 2-3 formatos de `references/estruturas-de-roteiro/`:
-- Explique cada um de forma simples ("esse formato funciona bem porque...")
+### Fase 2a: Jeito de gravar (formato)
+Pergunte como a pessoa pretende gravar e sugira 2-3 formatos de `references/formatos/` (o README tem o guia "Como escolher" e a tabela que casa arquétipo com formato):
+- Explique cada um de forma simples ("esse jeito de gravar funciona bem porque...")
+- Considere o que a pessoa consegue produzir de verdade — se o ideal não dá, indique o segundo melhor e diga por quê
+- Deixe o usuário escolher
+
+Depois de escolhido, **abra `references/formatos/<formato>.md` e siga as "Regras de escrita" dele** durante toda a escrita. Elas mandam em cima de tudo que vem depois.
+
+### Fase 2b: Ordem da história (estrutura)
+O arquivo do formato já indica a estrutura que combina melhor. Confirme sugerindo 2-3 de `references/estruturas-de-roteiro/`:
+- Explique cada uma de forma simples ("essa sequência funciona bem porque...")
 - Deixe o usuário escolher
 
 ### Fase 3: Escolher referências (interno)
 Internamente:
-1. Consultar `references/exemplos-analisados/` e `knowledge/`
+1. Consultar `references/exemplos-analisados/`, `references/formatos/<formato escolhido>.md` e `knowledge/`
 2. Escolher 1-2 roteiros de referência cuja sequência de emoções faz sentido
 3. Mapear: frase 1 = emoção X, frase 2 = emoção Y, etc.
 
 ### Fase 4: Aberturas (3-5 sugestões)
-- Criar 3-5 aberturas diferentes
+- Ver em `references/formatos/<formato>.md` qual **tipo de abertura** aquele formato pede, e em `knowledge/hooks-que-funcionam.md` a tabela dos 5 tipos
+- Criar 3-5 aberturas diferentes, variando o tipo
 - Para cada uma, explicar de forma simples por que funciona ("essa funciona porque faz a pessoa querer saber o que aconteceu")
 
 O usuário escolhe, modifica, ou escreve melhor.

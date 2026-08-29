@@ -58,6 +58,10 @@ Roteiro em blockquote. Comentário em 1-2 frases embaixo. Nomeie o princípio.
 ## O que falta
 - (Princípio que falta) — onde encaixaria e por quê
 
+## Regras do formato
+- [Regra de `references/formatos/<formato>.md` que o roteiro quebrou] — onde e como corrigir
+- (Se o formato não foi definido, pergunte como vai gravar antes de julgar isso)
+
 ## Veredicto
 - Segura até o final? sim / mais ou menos / não
 - Faria compartilhar? sim / mais ou menos / não

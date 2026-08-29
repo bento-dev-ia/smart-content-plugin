@@ -92,7 +92,12 @@ A abertura ganha 1 parágrafo extra (3-4 frases no máximo):
 
 ## Resumão (no final)
 
-5 linhas, sem mais:
+Antes das 5 linhas, identifique as camadas em 1 linha cada:
+- **Jeito de gravar:** [formato de `references/formatos/`; se mistura dois, diga qual domina] — e se as "Regras de escrita" dele foram respeitadas
+- **Ângulo:** [arquétipo de `knowledge/arquetipos-nichos-bolhas.md`]
+- **Ordem da história:** [estrutura de `references/estruturas-de-roteiro/`]
+
+Depois, 5 linhas, sem mais:
 1. **Ideia central:** [1 frase]
 2. **Tamanho do tema:** universal / bolha / nicho
 3. **Ponto mais forte:** [o que carrega o roteiro]

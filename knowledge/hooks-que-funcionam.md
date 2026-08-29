@@ -20,6 +20,18 @@ Base evolutiva de hooks coletados de vídeos virais analisados.
 | 6 | "Você não pode salvar seus pais" | Conflito Universal + Identificação | @canal (Instagram) | — |
 | 7 | "E o meu noivo que namorou umas 16 mulheres diferentes enquanto estávamos juntos" | Conflito + Curiosidade (loop) | @canal (Instagram) | — |
 
+## Tipos de hook
+
+Todo hook cai em um destes cinco tipos. O **roteirista** escolhe o tipo ANTES de escrever a frase — e o tipo certo depende do formato de gravação (ver `references/formatos/`, seção "Tipo de hook que este formato pede").
+
+| Tipo | O que faz | Exemplo coletado | Formatos que pedem |
+|---|---|---|---|
+| **Declaração de consequência** | Entrega o resultado antes da causa, abre lacuna de "como?" | "E foi assim que esse empresário mentiroso faturou bilhões" | Tela dividida, Tela verde, Storytelling visual, Bastidores |
+| **Provocação direta** | Desafia uma crença ou comportamento do espectador | "Se a sua namorada te mandou esse vídeo, é porque você precisa aprender uma lição" | Palestrinha, Caixinha polêmica |
+| **Cena imersiva** | Coloca o espectador dentro de um momento antes de qualquer contexto | "Você não pode salvar seus pais" | Cine, Narrado |
+| **Contraste inesperado** | Opõe dois elementos que não deveriam estar juntos | "A cobra da minha sogra fez uma cirurgia e vai ficar na minha casa" | Comparação, Diálogo, The Office |
+| **Curiosidade numérica** | Dado concreto que cria dúvida imediata | "A Coca Zero tem 36 miligramas de aspartame" | Dinamismo, Tela verde, Experimento social |
+
 ## Padrões de hook identificados
 
 1. **"[Rótulo provocativo] + [resultado surpreendente]"** — Gera debate mental + curiosidade

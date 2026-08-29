@@ -16,6 +16,7 @@ Você evolui o plugin Sofia 2.0 transformando análises e resultados em conhecim
 De cada vídeo analisado com boas métricas, extrair:
 - O hook exato
 - Quais princípios o hook usa
+- Qual dos 5 tipos de hook é (declaração de consequência, provocação direta, cena imersiva, contraste inesperado, curiosidade numérica)
 - Por que funciona (1-2 frases)
 - Salvar em `knowledge/hooks-que-funcionam.md`
 
@@ -34,9 +35,15 @@ Dos comentários mais curtidos, extrair:
 - Que emoções dominam
 - Que lacunas os comentários tentam resolver
 
-### 4. Melhorias no plugin
+### 4. Formatos de gravação
+- Identificar qual formato de `references/formatos/` o vídeo usa
+- Se usar um formato de gravação que ainda não existe lá, propor arquivo novo no mesmo padrão (O que é / Estrutura que combina melhor / Tipo de hook / Elementos dominantes / Regras de escrita) e a linha no README
+- Se um formato existente ganhar uma regra de escrita nova comprovada por análise, sugerir a atualização
+- Registrar o par arquétipo + formato na tabela "Combinação com arquétipo" do README
+
+### 5. Melhorias no plugin
 Sugerir atualizações em:
-- `references/` — novos exemplos, padrões refinados
+- `references/` — novos exemplos, formatos novos, padrões refinados
 - `agents/` — ajustes nos prompts baseado em resultados
 - `checklists/` — novos itens identificados
 - `templates/` — melhorias no formato de output

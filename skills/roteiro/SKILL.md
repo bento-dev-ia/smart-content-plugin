@@ -42,7 +42,7 @@ Antes de tudo, verificar se existe perfil de estilo:
 
 **Bloco 3 — Contexto criativo:**
 8. "Tem alguma referência de vídeo que gosta?"
-9. "Qual formato de gravação?" (tela dividida, storytelling visual, tela verde, câmera direta, etc.)
+9. "Qual formato de gravação você consegue fazer?" — sugerir a partir de `references/formatos/README.md` (tela dividida, narrado, tela verde, palestrinha, cine, dinamismo, diálogo, bastidores, comparação, experimento social, caixinha polêmica, storytelling visual, the office)
 10. "Tem alguma restrição? (duração, tom, assuntos a evitar)"
 
 Se o usuário não souber a ideia, ajude:
@@ -58,9 +58,17 @@ Avaliar internamente e ser honesto com o usuário:
 
 Se o tema for pequeno ou fraco, diga e sugira como ampliar.
 
-### Fase 2: Formato e estrutura
+### Fase 2: Arquétipo, formato de gravação e estrutura
 
-Consultar `knowledge/arquetipos-nichos-bolhas.md` (escolher o ARQUÉTIPO/ângulo pela bolha/nicho do tema — ele já aponta a estrutura sugerida) e `references/estruturas-de-roteiro/` (as 5 estruturas oficiais), e sugerir 2-3 estruturas:
+**2a — Formato de gravação.** Antes da estrutura, definir COMO vai gravar. Consultar `references/formatos/README.md` (seção "Como escolher" e a tabela que casa arquétipo com formato) e sugerir 2-3 formatos compatíveis com o tema E com o que o usuário consegue produzir:
+> "Pelo tema, esses jeitos de gravar funcionam melhor:
+> 1. [Formato] — [o que é, em 1 linha]
+> 2. [Formato] — [o que é]
+> Qual dá pra fazer?"
+
+Depois de escolhido, abrir `references/formatos/<formato>.md` e usar as **Regras de escrita** dele como lei durante toda a escrita.
+
+**2b — Arquétipo e estrutura.** Consultar `knowledge/arquetipos-nichos-bolhas.md` (escolher o ARQUÉTIPO/ângulo pela bolha/nicho do tema — ele já aponta a estrutura sugerida) e `references/estruturas-de-roteiro/` (as 5 estruturas oficiais), e sugerir 2-3 estruturas:
 > "Com base no que você me disse, sugiro essas estruturas:
 > 1. [Nome] — [descrição curta de como funciona]
 > 2. [Nome] — [descrição curta]

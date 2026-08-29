@@ -73,7 +73,8 @@ Depois que o usuário responder:
   4. Curiosidade morre → segurar a resposta
   5. Repete demais → cortar
   6. Resposta cedo demais → atrasar revelação
-  7. Fala difícil → palavras do público
+  7. Fala difícil → palavras do público (vocabulário da bolha em `knowledge/arquetipos-nichos-bolhas.md`, Parte 3)
+  8. Regra do formato quebrada → reescrever conforme as "Regras de escrita" em `references/formatos/<formato>.md`
 - Usar **apenas** o que o usuário forneceu na conversa
 
 ## Output

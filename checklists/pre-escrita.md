@@ -24,9 +24,21 @@ Verificar ANTES de começar a escrever qualquer roteiro.
 - [ ] Esse conflito vai acontecer na CABEÇA do público ou só no roteiro?
 - [ ] O conflito é universal o suficiente para ativar carga emocional prévia?
 
-## Formato
+## Bolha e arquétipo
+- [ ] Sei em qual bolha o tema cai e qual o teto dela? (`knowledge/arquetipos-nichos-bolhas.md`, Parte 3)
+- [ ] Se o tema é de nicho, tem ponte universal (dinheiro/tempo/medo)?
+- [ ] Escolhi o arquétipo/ângulo? (Parte 1, A1–A15)
+
+## Formato de gravação
+- [ ] Escolhi um formato de `references/formatos/`?
+- [ ] O usuário consegue produzir esse formato de verdade?
+- [ ] Li as "Regras de escrita" do formato antes de começar?
+- [ ] O tipo de abertura que vou usar é o que esse formato pede?
+- [ ] O formato conversa com o arquétipo escolhido? (tabela no README dos formatos)
+
+## Estrutura
 - [ ] Escolhi estrutura de roteiro adequada?
-- [ ] O formato suporta o tipo de conteúdo? (visual, câmera, tela verde)
+- [ ] A estrutura combina com o formato? (ver "Estrutura que combina melhor" no arquivo do formato)
 
 ## Restrições
 - [ ] Não estou inventando nada (personagens, histórias, dados)

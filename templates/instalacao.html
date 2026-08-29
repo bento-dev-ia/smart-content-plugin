@@ -122,20 +122,28 @@
         }
 
         @media print {
+            @page {
+                size: A4;
+                margin: 20mm 15mm 20mm 15mm;
+            }
             body { background: #fff; color: #111; }
             .hero { background: #fff; padding: 1rem; }
             .hero::before { display: none; }
             .hero h1 { background: none; -webkit-text-fill-color: #ff4d00; color: #ff4d00; }
             .hero p { color: #555; }
-            .step-block { background: #f9f9f9; border-color: #ddd; page-break-inside: avoid; }
+            .container { padding: 0; }
+            .step-block { background: #f9f9f9; border-color: #ddd; page-break-inside: avoid; break-inside: avoid; margin-bottom: 1.2rem; }
             .step-num { background: #ff4d00; }
             .cmd-box { background: #f0f0f0; border-color: #ccc; color: #111; }
             .cmd-box .copy-label { display: none; }
-            .note { background: #fff5f0; }
-            .success { background: #f0fdf4; border-color: #86efac; }
-            .use-card { background: #f9f9f9; border-color: #ddd; }
+            .note { background: #fff5f0; page-break-inside: avoid; break-inside: avoid; }
+            .success { background: #f0fdf4; border-color: #86efac; page-break-inside: avoid; break-inside: avoid; }
+            .use-card { background: #f9f9f9; border-color: #ddd; page-break-inside: avoid; break-inside: avoid; }
+            .flow { page-break-inside: avoid; break-inside: avoid; }
             .flow-step { background: #f9f9f9; border-color: #ddd; }
-            .tip { background: #f5f3ff; border-color: #c4b5fd; }
+            .tip { background: #f5f3ff; border-color: #c4b5fd; page-break-inside: avoid; break-inside: avoid; }
+            .divider { page-break-after: avoid; }
+            .section-title { page-break-after: avoid; break-after: avoid; }
             .footer { display: none; }
             a { color: #ff4d00; }
             .link { color: #ff4d00; }
@@ -229,7 +237,7 @@
         <p>Quando sair uma versao nova, abra o app Claude na <strong>aba Code</strong> e cole:</p>
 
         <div class="cmd-box" onclick="copyCmd(this)">
-            claude plugin update sofia
+            claude plugin update sofia@srbentostk
             <span class="copy-label">clique para copiar</span>
         </div>
 

@@ -10,6 +10,13 @@ Verificar antes de entregar resultado de análise de vídeo ao usuário.
 - [ ] Nome do criador/canal identificado?
 - [ ] Data de publicação registrada?
 
+## Camadas identificadas
+- [ ] Formato de gravação identificado? (`references/formatos/`)
+- [ ] As regras de escrita desse formato foram respeitadas pelo vídeo? Onde sim, onde não?
+- [ ] Arquétipo/ângulo identificado? (`knowledge/arquetipos-nichos-bolhas.md`, A1–A15)
+- [ ] Estrutura narrativa identificada? (`references/estruturas-de-roteiro/`)
+- [ ] Tipo de abertura identificado? (um dos 5 em `knowledge/hooks-que-funcionam.md`)
+
 ## Análise de princípios
 - [ ] Cada frase foi analisada individualmente?
 - [ ] Princípios identificados com explicação do "por quê"?

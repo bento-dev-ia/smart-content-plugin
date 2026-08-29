@@ -53,6 +53,9 @@ Se já ficou claro pelo contexto, pule direto.
 
 ```markdown
 ## Resumo
+- **Jeito de gravar:** [formato de `references/formatos/`] — regras respeitadas? [1 frase]
+- **Ângulo:** [arquétipo A1–A15 de `knowledge/arquetipos-nichos-bolhas.md`]
+- **Ordem da história:** [estrutura de `references/estruturas-de-roteiro/`]
 - **Ideia:** [1 frase]
 - **Por que funciona:** [1-2 motivos]
 - **Ponto mais forte:** [o que carrega]

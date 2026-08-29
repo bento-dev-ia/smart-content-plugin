@@ -26,6 +26,21 @@ Todo o sistema é guiado pelos **Princípios de Psicologia Cognitiva do Engajame
 4. **Curiosidade e Debate Mental** — sustenta retenção
 5. **Aha e Ausência Deliberada** — recompensa ou externaliza engajamento
 
+## Os 4 eixos de um roteiro
+
+Nunca confundir um eixo com o outro. Ordem de decisão: **tema → bolha → arquétipo → formato de gravação → estrutura → hook → frases**.
+
+| Eixo | Pergunta | Onde vive |
+|---|---|---|
+| **Princípios** | POR QUE funciona | `references/principios.md` — é a lei |
+| **Arquétipo** | QUAL ângulo já provou pegar | `knowledge/arquetipos-nichos-bolhas.md` (A1–A15, + nichos e bolhas) |
+| **Formato de gravação** | COMO se grava e monta | `references/formatos/` — 13 formatos com regras de escrita próprias |
+| **Estrutura de roteiro** | COMO o argumento se organiza | `references/estruturas-de-roteiro/` — as 5 |
+
+Os **elementos viciantes** (`references/elementos-viciantes/`) atravessam os quatro: são o que prende em cada frase.
+
+O formato de gravação vem antes da estrutura porque cada formato tem regras de escrita próprias e já indica qual estrutura e qual tipo de abertura combinam com ele.
+
 ## Agentes
 
 Os agentes estão em `agents/` e são orquestrados pelas skills. Ao executar uma skill, consulte o agente correspondente para instruções detalhadas:
