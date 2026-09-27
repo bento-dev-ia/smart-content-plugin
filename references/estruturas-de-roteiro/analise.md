@@ -2,71 +2,117 @@
 
 **Conflito > Resultados > 3 Motivos > Moral da Historia**
 
+Na pratica, em 10 blocos: Clipe-gancho do analisado > Rotulo exagerado > Credencial > Promessa > Principio 1 > Principio 2 > Principio 3 (o pilar do seu metodo) > Virada para o espectador > CTA.
+
 ## Visao Geral
 
-Perfeita para analisar um personagem, criador ou marca e revelar, de forma estrategica, os motivos por tras do sucesso — enquanto valida e planta os pilares do seu metodo na mente das pessoas.
+Voce pega alguem que o publico ja viu passar no feed, **empresta a atencao que essa pessoa tem**, explica em 3 principios **por que** ela funciona, e usa o ultimo principio — sempre o pilar que o seu metodo ou produto entrega — como ponte para a venda. O analisado e a prova; o metodo e o produto.
+
+Tres papeis fixos:
+- **O analisado** entrega o entretenimento: as punchlines saem da boca dele, em clipes curtos.
+- **Quem apresenta** e fa e professor: anuncia a piada, reage, nomeia o mecanismo, da a licao. Nunca e o assunto — so fala de si no fechamento.
+- **O espectador** recebe toda licao, mesmo quando o analisado e humorista.
+
+Medidas (13 videos de referencia): 115–180 s, 440–640 palavras (~3,5–4 palavras/s). Voz do analisado = 8–16 % do tempo nos melhores, em clipes de 1–7 s com a punchline no fim.
 
 ## Etapas
 
-### 1. Conflito Universal
+### 1. Conflito — clipe-gancho + rotulo (0–20 s)
 
-O que todo mundo pensa, julga ou comenta sobre o "personagem" analisado?
+**Clipe-gancho (0–4 s):** a fala do analisado que se entende sozinha, sem contexto, em ate 4 s, com a punchline no fim. Tema de massa (dinheiro, imposto, corpo, bebe, emprego, ciume). Se nao existe um clipe assim, **escolha outro analisado**. Nunca abra com quem apresenta falando jargao.
 
-- Use uma frase provocativa
-- Crie curiosidade ou indignacao na bolha que voce esta furando
+**Rotulo exagerado — falso ataque que vira elogio.** Tres formulas:
+- Noticia falsa comica: "[Esse] [papel] ta sendo investigado por [exagero do conteudo dele], [2a acusacao boba] e [3a, verdade popular]."
+- Superlativo: "[Essa mulher] tem [o/a X mais Y] da internet brasileira."
+- Insulto carinhoso: "Essa garota tem [a coisa mais Z] da internet brasileira."
 
-**Exemplo:** "E serio que ele ta feliz por comprar 15kg de sobrecoxa? A internet brasileira e uma piada!"
+Virada explicita: "A verdade e que…". O rotulo e sobre algo **inofensivo** e nunca ofende quem assiste (ex.: "geracao Z que odeia trabalhar" ofende o proprio publico). Palavrao fica na boca do analisado, bipado.
 
-### 2. Resultados
+### 2. Resultados — nome + credencial (10–26 s)
 
-Mostre dados expressivos ou um marco que essa pessoa alcancou:
+Nome falado + **seguidores** (arredondados para baixo, com "mais de", "quase", "e contando") + **media ou pico de views** + **um detalhe singular** que transforma numero em historia ("so esse ano", "posta menos de uma vez por semana", "funciona em 5 nichos").
 
-- Numero de seguidores
-- Alcance
-- Reconhecimento
-- Viralizacao
+- "Ganhou mais de [N] seguidores so esse ano. Uma media de [M] de views."
+- "[Nome] tem [N] de seguidores, videos com quase [M] de views, e posta menos de [frequencia]." (grande → maior → contraste)
+- Loop aberto opcional: "E alguns truques invisiveis pra te deixar viciado em tudo que [ela] posta."
 
-**Exemplo:** "O Pantera ganhou 1 milhao de seguidores em 35 dias."
+Evite: credencial sem seguidores, numero em escala de nicho ("o mais legal entre os corretores"), numero chutado, metrica so em likes.
 
-### 3. Os 3 Motivos
+**Promessa (19–26 s)** — o contrato, com o **analisado como sujeito**:
+> "Por isso hoje a gente vai analisar os tres principios que [nome] usa pra [dominar a internet brasileira / resultado do nicho]."
 
-Tres razoes que justificam o resultado alcancado e comprovam a sua metodologia.
+"Por isso" amarra credencial e promessa; "tres" cria contagem. Prometer cedo demais (4 s) nao cria desejo; tarde demais (30 s) perde gente. Nunca "eu vou usar o formato analise".
 
-- Use linguagem estrategica, mas acessivel
-- Cada motivo pode mostrar um pilar do seu metodo, sem parecer que voce ta dando uma aula
+### 3. Os 3 Motivos — principios (25–40 s cada)
 
-**Exemplo (video do Pantera):**
+Cada principio, sempre nesta ordem:
+1. **Nome** (2–5 palavras) com o numero falado ("Numero um…", "Dois…", "E tres…"). Pelo menos um principio deve ter **nome tirado do proprio analisado** (o apelido do formato dele: "Formato criativo Telecurso 2000", "arrume-se comigo", "o FDP e um CDF"). Termos de manual ("storytelling", "autenticidade") sozinhos marcam os videos fracos.
+2. **Prova** — lista de 3 fatos com o 3o item em **anticlimax comico** ("politica, filosofia e putaria") + um clipe de ate 7 s em que o principio **acontece sozinho**. Setup de quem apresenta → punch do analisado → reacao.
+3. **Mecanica** — por que prende: "a mente humana e viciada em…", "o que eu chamo de…", fonte nomeada quando houver (Hebb 1949, McKee, Loewenstein).
+4. **Licao imperativa para "voce"** — "Entao para de ser chato falando so do seu produto. E conecta isso com…". Licao descritiva ("ele faz isso…") enfraquece.
+5. **Ponte encadeada** — "O que ja se conecta com o pilar numero 2".
 
-1. **Efeito jornada:** "Aos poucos a gente vai vivendo a historia junto com ele..."
-2. **Formato criativo:** O Pantera cresceu exponencialmente depois de acertar dois formatos: compras no mercado e receitas acessiveis.
-3. **Autoridade:** Apesar da voz tranquila de monge budista, o mano tem 97 centimetros de braco. Entao quando ele fala pra tu comer aveia gelada pra crescer, tu vai ter que testar. Porque ele claramente tem resultado naquilo que ele fala.
+**O Principio 3 e o pilar do seu metodo** (nos 13 videos de referencia: "formato criativo — encontrar um padrao que funciona e repetir, repetir, repetir… e assim que [nome] e os maiores criadores do pais [resultado]"). O analisado vira prova viva do que voce vende. Se o pilar vier em P1, a ponte para o CTA some.
 
-### 4. Moral da Historia
+Um respiro de desmentido no video inteiro, logo apos um exagero: "To brincando, so pra nao pesar o clima."
 
-A ideia que voce quer plantar na cabeca de quem assistiu, gerando mais clareza para a sua intencao de comando.
+Moldes fortes para o corpo:
+- Inversao + vilao comum: "Pode parecer so [leitura superficial], mas [nome] tem mais [qualidade real] do que a maioria dos [grupo pretensioso] que [hipocrisia]."
+- Contraste: "O mesmo cara que [3 coisas serias] e o mesmo que literalmente [3 coisas baixas]."
+- Escada: "Quando o conteudo e bom, voce pensa [1]. Mas quando e de outro nivel, ele te faz sentir [2]."
+- Anafora de jornada: "A gente viu [ela] [baixa]. Viu [alta]. Mas [perda com numero]. Mas vimos tambem [volta por cima]."
+- Decomposicao em previsoes: "Quando [nome] aparece [fazendo o formato], a gente ja sabe 3 coisas. Primeiro… Segundo… E por ultimo…"
+- Cadeia causal que termina em dinheiro: "Compartilhar [X] faz as pessoas confiarem em voce. Torcer como melhores amigos. E comprar qualquer coisa que voce vender."
+- Metalinguagem: "Tipo eu aqui [usando o principio agora] pra te ensinar sem voce nem perceber."
 
-- Pode ter tom provocativo, emocional ou inspirador
+### 4. Moral da Historia — virada + CTA
 
-**Exemplo:** "E se voce chegou aqui nesse video, faca como o Pantera, larga todas as desculpas e deixa de ser um mero espectador pra se tornar um grande criador de conteudo."
+**Virada para o espectador (6–13 s)** — a analise vira diagnostico:
+- Pergunta-espelho: "Sera que nao e [pilar] que ta faltando no seu conteudo?"
+- Bronca: "Nao faz sentido! Voce ta criando conteudo em [ano] sem…"
+- Objecao dramatizada: "Ai, [seu nome], mas pra mim e muito dificil…" → "Era exatamente isso que eu sentia tambem. Mas de tanto observar os maiores…"
+
+**CTA (3–14 s)**, do mais forte ao mais fraco:
+- Callback do analisado: "E realmente uma pena que [nome] nao ensine a [o que voce vende]. Mas eu ensino. Quer aprender comigo? E so tocar no link da minha bio."
+- Prova social em escada: "Nas ultimas semanas eu ajudei centenas de pessoas a bater 10, 30, 50, ate 100 mil seguidores usando essa estrategia." + oferta
+- Relativizacao humilde: "Esse e o formato que funciona pra ela. Mas se voce quer ajuda pra encontrar o que funciona pra voce…"
+- Fraco: CTA seco sem virada, ou para algo que o publico nao conhece.
+
+## Pesquisa minima antes de escrever
+
+- Clipes: 3–5 candidatos a gancho (autossuficientes, ate 4 s) + 1 clipe-prova por principio, com timecode.
+- Numeros: seguidores, pico e media de views da grade, crescimento em janela curta, frequencia de postagem, monetizacao visivel.
+- Narrativa: origem, queda com numero, volta por cima, evento pessoal recente, vilao/contraste, fatos que exagerados viram noticia falsa comica.
+- Formato: o padrao que se repete em 5+ videos — **de um apelido** (vira nome de principio); bordoes; elenco recorrente; temas em lista de 3.
+- Publico: apelidos e piadas dos comentarios, o erro que o espectador comete (vira a bronca), a objecao dele (vira a objecao dramatizada).
+
+Triagem do analisado: (1) existe clipe de ate 4 s que faz rir/chocar sem contexto? (2) da para dizer os seguidores numa frase impressionante? (3) o publico sente algo forte por esse tema? Se o nicho e estreito, traduza para uma emocao humana — ou troque de analisado.
+
+Serve tambem para marca (gancho = comercial mais absurdo; credencial = faturamento/lojas) e atleta/figura publica (gancho = lance/fala viral; credencial = titulos/recordes). O que nao muda: o analisado entrega o entretenimento, quem apresenta nomeia o mecanismo, o espectador recebe a licao, o ultimo principio e a ponte para o que se vende.
 
 ## Objetivo da estrutura
 
-- Aumentar consciencia sobre o seu metodo
-- Posicionar sua visao criativa
-- Plantar valor enquanto surfa uma tendencia
-- Fazer analise que ensina (sem parecer coach)
+- Surfar a atencao de quem ja viraliza
+- Posicionar autoridade analisando o sucesso de outros
+- Plantar os pilares do seu metodo sem parecer aula
+- Vender com o analisado como prova viva
 
 ## Quando usar
 
-- Quando um criador ou video viralizou e voce quer surfar a tendencia
-- Quando quer posicionar autoridade analisando o sucesso de outros
+- Quando um criador, marca ou video viralizou e voce quer surfar a tendencia
 - Quando quer ensinar seus pilares de forma indireta
 - Videos de "por que fulano cresceu tanto" ou "o segredo por tras de X"
 
 ## Checklist rapido
 
-- [ ] O conflito universal gera curiosidade ou indignacao na bolha?
-- [ ] Os resultados sao impressionantes e verificaveis?
-- [ ] Os 3 motivos conectam com pilares do seu metodo?
-- [ ] A moral da historia planta a ideia certa na cabeca do publico?
-- [ ] O tom e de analise (nao de aula ou palestra)?
+- [ ] O gancho e um clipe do analisado que se entende sozinho em ate 4 s?
+- [ ] O rotulo e exagerado, engracado e nao ofende quem assiste?
+- [ ] Seguidores + views + detalhe singular, antes da promessa?
+- [ ] A promessa cai entre 19 e 26 s, com o **analisado** como sujeito?
+- [ ] Tres principios, cada um com nome → prova → mecanica → licao → ponte?
+- [ ] Pelo menos um principio batizado com algo do proprio analisado?
+- [ ] O ultimo principio e o pilar do seu metodo/produto?
+- [ ] Quem apresenta so fala de si no fechamento?
+- [ ] Virada para o espectador antes do CTA?
+- [ ] Clipes do analisado somam 8–16 % do tempo, cada um ate 7 s, punchline no fim?
+- [ ] Palavrao so na boca do analisado, e nenhum em tema sensivel?
