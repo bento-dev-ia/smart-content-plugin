@@ -3,8 +3,7 @@
 
 sofia:
   # API Keys
-  apify_api_key: ""          # Opcional: comentários de Instagram/TikTok
-  gemini_api_key: ""         # Opcional: prefira GEMINI_API_KEY no ambiente
+  apify_api_key: ""          # Obrigatório para Instagram/TikTok
   youtube_api_key: ""        # Opcional (usa yt-dlp como fallback grátis)
   firecrawl_api_key: ""      # Opcional (para scraping auxiliar)
 
@@ -20,5 +19,4 @@ sofia:
   # Preferências
   idioma: "pt-BR"
   max_comentarios: 20        # Quantos comentários extrair por vídeo
-  cookie_browser: ""         # chrome | safari | edge | firefox para links restritos
   auto_aprender: false       # Salvar padrões automaticamente após análise

@@ -1,5 +1,4 @@
 ---
-name: melhorar
 description: Melhora um roteiro através de perguntas guiadas. Em vez de inventar, pergunta ao usuário as informações necessárias para deixar o roteiro mais robusto e verdadeiro.
 ---
 

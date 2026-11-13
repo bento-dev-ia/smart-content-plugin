@@ -1,6 +1,5 @@
 ---
-name: setup
-description: Configura o plugin Sofia 2.0, verifica dependências visuais e configura saída e integrações opcionais. Use na primeira execução, em falhas de vídeo ou quando config.yaml estiver incompleto.
+description: Configura o plugin Sofia 2.0 - verifica dependências, pede API keys, configura output. Use na primeira execução ou quando config.yaml estiver incompleto.
 ---
 
 # Setup do Sofia 2.0
@@ -22,7 +21,6 @@ Executar sem mostrar ao usuário:
 - Verificar OS (macOS, Linux, Windows): `uname -s`
 - Verificar se Node.js está instalado: `node --version`
 - Verificar se yt-dlp está instalado: `yt-dlp --version`
-- Verificar se ffmpeg está instalado: `ffmpeg -version`
 - Verificar se existe Obsidian Vault: `find ~ -name ".obsidian" -maxdepth 4 -type d 2>/dev/null | head -5`
 - Ler config atual se existir: `knowledge/config.yaml`
 
@@ -56,13 +54,7 @@ Depois que tudo estiver instalado (ou já estava), mostrar ao usuário um resumo
 > ✅ yt-dlp instalado (2025.x)
 > ✅ Obsidian Vault encontrado em /caminho/do/vault
 
-### 4. Integrações opcionais
-
-A análise visual, legendas disponíveis e métricas básicas de Instagram/TikTok funcionam sem API key. Apify é somente fallback para comentários que o `yt-dlp` não fornecer. Gemini é somente complemento de vídeo nativo; o padrão local já analisa a sequência visual.
-
-Pergunte sobre Apify apenas quando o usuário quiser comentários de Instagram/TikTok e a extração gratuita falhar. Pergunte sobre Gemini apenas quando o usuário quiser a análise nativa opcional. Antes de usar Gemini, avise que o vídeo será enviado ao Google e peça autorização.
-
-### 5. Perguntar sobre Apify (fallback de comentários)
+### 3. Perguntar sobre Apify (para Instagram/TikTok)
 Usar a ferramenta AskUserQuestion com estas opções EM PORTUGUÊS:
 
 Pergunta: "Você tem uma API key do Apify? (Necessário para analisar vídeos do Instagram e TikTok)"
@@ -78,7 +70,7 @@ Opções:
   > 5. Cole aqui:
 - "Não quero configurar agora" → Pular. Avisar: "Sem o Apify, a Sofia funciona para YouTube mas não consegue pegar comentários do Instagram e TikTok."
 
-### 6. Configurar onde salvar
+### 4. Configurar onde salvar
 Se encontrou Obsidian Vault, sugerir automaticamente:
 
 > Encontrei seu Obsidian Vault em: `/caminho/do/vault`
@@ -101,18 +93,18 @@ Opções:
 - "Criar pasta Sofia na área de trabalho" → Usar `~/Desktop/Sofia/`
 - "Escolher outro local" → Pedir caminho
 
-### 7. Salvar config
+### 5. Salvar config
 Criar/atualizar `knowledge/config.yaml` com todas as configurações coletadas.
 Incluir data do setup e marcar `setup_completo: true`.
 
-### 8. Teste rápido
+### 6. Teste rápido
 Executar um teste silencioso:
 ```bash
 yt-dlp --dump-json "https://www.youtube.com/watch?v=dQw4w9WgXcQ" 2>/dev/null | head -1
 ```
 Se funcionar, confirmar. Se falhar, avisar o usuário.
 
-### 9. Oferecer aprendizado de estilo de escrita
+### 7. Oferecer aprendizado de estilo de escrita
 
 Depois de tudo configurado, perguntar:
 
@@ -161,7 +153,7 @@ Opções:
 
    Adicionar na seção "O que EVITAR" do perfil.
 
-### 10. Mensagem final
+### 8. Mensagem final
 Mostrar ao usuário:
 
 > **✅ Sofia 2.0 configurada com sucesso!**

@@ -1,5 +1,4 @@
 ---
-name: exportar
 description: Exporta conhecimentos como arquivos .md ou aplica aprendizados diretamente no plugin para melhorar escrita futura.
 ---
 

@@ -1,13 +1,13 @@
-# Exemplos Analisados: Tela Verde
+# Exemplos Analisados — Tela Verde
 
 ## Exemplo 1: Lady Gaga (Bullying na Faculdade)
 
 **Link:** https://www.instagram.com/reel/DHrok4KtbrE/
-**Formato:** Tela verde: imagens de fundo ilustrando a história
+**Formato:** Tela verde — imagens de fundo ilustrando a história
 
 ---
 
-\[Conflito Universal carregado de Relevância Emocional e Familiaridade: Bullying, todo mundo já passou ou viu. Dispara raiva, empatia, indignação\]
+\[Conflito Universal carregado de Relevância Emocional e Familiaridade: Bullying — todo mundo já passou ou viu. Dispara raiva, empatia, indignação\]
 Essa garota foi tão zoada na faculdade que os alunos chegaram a criar um grupo no Facebook chamado "Stephanie Germanotta, você nunca será famosa".
 
 \[Começa com contraste: estudante MAS sonho de ser grande artista\]
@@ -85,8 +85,8 @@ Na próxima vez que alguém te falar que a Coca Zero vai te matar, manda esse v�
 
 ## Diagnóstico Coca Zero
 
-1. **Ideia:** "Coca Zero não faz mal: a dose faz o veneno"
-2. **Tema:** Saúde/alimentação, universal (todo mundo come e bebe)
+1. **Ideia:** "Coca Zero não faz mal — a dose faz o veneno"
+2. **Tema:** Saúde/alimentação — universal (todo mundo come e bebe)
 3. **Conflito:** Na cabeça do público (contradiz crença de que Coca = veneno)
 4. **Lacunas:** "Então Coca é veneno?" (sustentada) → fecha com dose segura
 5. **Aha:** Múltiplos mini-ahas (tomate > coca, bife > coca) + aha final (50 latas)

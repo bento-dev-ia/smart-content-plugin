@@ -1,34 +1,34 @@
 # Elementos Viciantes
 
-Elementos que tornam um conteúdo impossível de ignorar. São ferramentas que podem ser aplicadas em qualquer estrutura de roteiro.
+Elementos que tornam um conteudo impossivel de ignorar. Sao ferramentas que podem ser aplicadas em qualquer estrutura de roteiro.
 
-> REGRA: Os exemplos dentro de cada arquivo são referências internas para ilustrar os princípios. NÃO devem ser usados em conversas com o usuário nem reproduzidos em roteiros. Apenas os PRINCÍPIOS guiam a escrita e a análise.
+> REGRA: Os exemplos dentro de cada arquivo sao referencias internas para ilustrar os principios. NAO devem ser usados em conversas com o usuario nem reproduzidos em roteiros. Apenas os PRINCIPIOS guiam a escrita e a analise.
 
-## Elementos disponíveis
+## Elementos disponiveis
 
-| Elemento | Princípio central | Efeito no público |
+| Elemento | Principio central | Efeito no publico |
 |---|---|---|
-| [Relevância Emocional](relevancia-emocional.md) | Sem emoção não existe atenção | Faz o público SENTIR algo |
-| [Linguagem Familiar + Imagem Mental](linguagem-familiar.md) | A mente é preguiçosa: fale como seu público fala | Faz o público ENTENDER sem esforço e VER a cena |
-| [Tema e Moral da História](tema-e-moral.md) | Tema atrai, moral planta a ideia | Faz o público PARAR e depois PENSAR |
-| [Conflito e Mudança](conflito-e-mudanca.md) | Sem conflito não tem história | Faz o público querer saber O QUE ACONTECEU |
-| [Curiosidade e Efeito AHA](curiosidade-e-aha.md) | Abre loop na cabeça, fecha com recompensa | Faz o público FICAR até o final |
-| [Contraste](contraste.md) | Opostos lado a lado amplificam emoção | Faz o público SENTIR mais intensamente |
+| [Relevancia Emocional](relevancia-emocional.md) | Sem emocao nao existe atencao | Faz o publico SENTIR algo |
+| [Linguagem Familiar + Imagem Mental](linguagem-familiar.md) | A mente e preguicosa — fale como seu publico fala | Faz o publico ENTENDER sem esforco e VER a cena |
+| [Tema e Moral da Historia](tema-e-moral.md) | Tema atrai, moral planta a ideia | Faz o publico PARAR e depois PENSAR |
+| [Conflito e Mudanca](conflito-e-mudanca.md) | Sem conflito nao tem historia | Faz o publico querer saber O QUE ACONTECEU |
+| [Curiosidade e Efeito AHA](curiosidade-e-aha.md) | Abre loop na cabeca, fecha com recompensa | Faz o publico FICAR ate o final |
+| [Contraste](contraste.md) | Opostos lado a lado amplificam emocao | Faz o publico SENTIR mais intensamente |
 
 ## Como os agentes usam estes elementos
 
 - O **roteirista** aplica os elementos durante a escrita, garantindo que cada trecho tenha pelo menos um elemento ativo
-- O **analista-de-principios** identifica quais elementos estão presentes em cada frase de um vídeo analisado
-- O **crítico** verifica se os elementos foram aplicados corretamente e aponta onde estão ausentes
+- O **analista-de-principios** identifica quais elementos estao presentes em cada frase de um video analisado
+- O **critico** verifica se os elementos foram aplicados corretamente e aponta onde estao ausentes
 - O **melhorador** reescreve trechos fracos aplicando os elementos que faltam
 
-## Hierarquia de importância
+## Hierarquia de importancia
 
-1. **Tema e Moral**: sem tema interessante ninguém para; sem moral nada é plantado
-2. **Relevância Emocional**: sem emoção não existe atenção
-3. **Conflito e Mudança**: sem conflito não tem história
-4. **Curiosidade e Efeito AHA**: sem curiosidade ninguém fica; sem AHA ninguém volta
-5. **Contraste**: amplifica tudo que já existe
-6. **Linguagem Familiar + Imagem Mental**: sem clareza o público desiste
+1. **Tema e Moral** — sem tema interessante ninguem para; sem moral nada e plantado
+2. **Relevancia Emocional** — sem emocao nao existe atencao
+3. **Conflito e Mudanca** — sem conflito nao tem historia
+4. **Curiosidade e Efeito AHA** — sem curiosidade ninguem fica; sem AHA ninguem volta
+5. **Contraste** — amplifica tudo que ja existe
+6. **Linguagem Familiar + Imagem Mental** — sem clareza o publico desiste
 
-Todos os elementos trabalham juntos. Um roteiro forte combina vários deles.
+Todos os elementos trabalham juntos. Um roteiro forte combina varios deles.

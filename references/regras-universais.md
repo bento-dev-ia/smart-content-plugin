@@ -7,7 +7,7 @@ Regras que NUNCA podem ser violadas em nenhuma etapa do processo.
 - Personagens devem ser REAIS e verificáveis
 - Histórias devem ter ACONTECIDO
 - Dados devem ter FONTE
-- Se não sabe quem usar, DIGA: nunca preencha com ficção
+- Se não sabe quem usar, DIGA — nunca preencha com ficção
 - A originalidade está nos princípios e estrutura, não na invenção
 
 ## 2. Fontes verificáveis
@@ -39,14 +39,14 @@ Regras que NUNCA podem ser violadas em nenhuma etapa do processo.
 
 ## 6. Nunca copiar tema
 
-- Copiar PRINCÍPIOS, ESTRUTURA e GATILHOS: nunca o tema literal
+- Copiar PRINCÍPIOS, ESTRUTURA e GATILHOS — nunca o tema literal
 - Se o original usa Tommy Hilfiger, use outro personagem TÃO CONHECIDO
 - Se o original usa traição, use um conflito TÃO UNIVERSAL
 - O "esqueleto" é reutilizável, a "roupagem" deve ser nova
 
 ## 7. Proibido conteúdo informativo sem emoção
 
-- "Ensinar" não retém, PROVOCAR retém
+- "Ensinar" não retém — PROVOCAR retém
 - Se o roteiro "explica" sem gerar conflito na cabeça, está errado
 - Informação entra como ferramenta de construção, não como objetivo
 

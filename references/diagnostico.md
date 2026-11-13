@@ -5,7 +5,7 @@
 Antes de avaliar qualquer elemento técnico, responder EM ORDEM:
 
 ### 1. Qual é a ideia que esse vídeo vende?
-- Não é o tema, não é o assunto: é a CRENÇA que instala
+- Não é o tema, não é o assunto — é a CRENÇA que instala
 - Se não tem resposta clara em 1 frase, o problema é estrutural
 - Exemplos: "Você pode ser grande antes de ser reconhecido", "Fome importa mais que privilégio"
 

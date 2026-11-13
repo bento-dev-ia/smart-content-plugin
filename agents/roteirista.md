@@ -91,7 +91,6 @@ Texto diferente. Mesma emoção. Mesmo impacto.
    - Que emoção provoca
    - O que usa pra prender (algo conhecido? uma pergunta? uma contradição?)
 4. **Criar aberturas NOVAS** que provocam a mesma emoção, adaptadas ao tema do usuário
-5. **Sempre incluir um hook de choque de crença** (ver a seção "Hipótese em teste" de `knowledge/hooks-que-funcionam.md`). Antes da frase, escreva em uma linha o que o público acredita, o que ele gostaria que fosse verdade e onde o vídeo paga o choque. Se não souber dizer onde paga, descarte o hook.
 
 ### Exemplo:
 Abertura de referência: "Você viu o Cristiano Ronaldo falando do filho dele?"
