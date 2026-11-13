@@ -1,6 +1,6 @@
 # Como escrever roteiros que soam naturais
 
-Padrões extraídos de roteiros virais reais. NÃO para copiar frases — para aprender o JEITO de escrever.
+Padrões extraídos de roteiros virais reais. NÃO para copiar frases: para aprender o JEITO de escrever.
 
 ## 1. Escreva como a pessoa fala, não como ela escreve
 
@@ -91,7 +91,7 @@ Bons roteiros colocam na tela o que o público já está pensando.
 
 **Regra:** Números concretos, nomes de lugares, detalhes visuais. Quanto mais específico, mais real parece, mais a pessoa acredita.
 
-## 8. A "escada" emocional — vai subindo
+## 8. A "escada" emocional: vai subindo
 
 Não jogue tudo de uma vez. Cada frase intensifica a anterior.
 

@@ -10,22 +10,22 @@ uso: "Consultar ANTES de roteirizar, para escolher o ÂNGULO (arquétipo). Cada 
 
 Padrões extraídos de vídeos reais com +100k views. Servem para a Sofia **escolher o ângulo** e já entrar sabendo qual estrutura e quais princípios aquele ângulo costuma acionar.
 
-## Como este arquivo se encaixa na Sofia (4 eixos — não confundir)
+## Como este arquivo se encaixa na Sofia (4 eixos: não confundir)
 
 | Eixo | Pergunta | Onde vive |
 |---|---|---|
-| **Princípios da viralização** | POR QUE funciona | `references/principios.md` — Tema → Familiaridade → Conflito e Mudança → Curiosidade → Aha/Ausência. É a lei; tudo passa por aqui. |
-| **Estrutura de roteiro** | COMO o argumento se organiza | `references/estruturas-de-roteiro/` — as 5: **AIDA**, **IHC**, **Jeito Errado × Jeito Certo**, **Ele/Eu/Você/Futuro**, **Análise**. |
-| **Formato de gravação** | COMO se grava | `references/formatos/` — 13 formatos (Tela Verde, tela dividida, narrado, palestrinha, cine…), cada um com regras de escrita próprias. |
+| **Princípios da viralização** | POR QUE funciona | `references/principios.md`: Tema → Familiaridade → Conflito e Mudança → Curiosidade → Aha/Ausência. É a lei; tudo passa por aqui. |
+| **Estrutura de roteiro** | COMO o argumento se organiza | `references/estruturas-de-roteiro/`: as 5: **AIDA**, **IHC**, **Jeito Errado × Jeito Certo**, **Ele/Eu/Você/Futuro**, **Análise**. |
+| **Formato de gravação** | COMO se grava | `references/formatos/`: 23 formatos (Tela Verde, Vlog, Análise, Analogia, Lo-Fi, Cine…), cada um com regras de escrita próprias. |
 | **Arquétipo de conteúdo** (ESTE arquivo) | QUAL ângulo/molde já provou pegar | Observação de campo (não é lei). Ex.: série, newsjacking, listicle, esquete, hot-take. |
 
-> Nota honesta: as 5 estruturas da Sofia são de **monólogo/narração**. Arquétipos de **esquete/diálogo** (A11, A14) não encaixam nelas — nesses, aplique os princípios direto. O mapeamento abaixo é sugestão, não camisa de força.
+> Nota honesta: as 5 estruturas da Sofia são de **monólogo/narração**. Arquétipos de **esquete/diálogo** (A11, A14) não encaixam nelas, nesses aplique os princípios direto. O mapeamento abaixo é sugestão, não camisa de força.
 
 > Evidência: 🟢 nicho IA/criador · 🟡 adjacente (tech PT-BR) · 🔴 fora do nicho (só mecânica de gancho).
 
 ---
 
-## PARTE 1 — ARQUÉTIPOS DE CONTEÚDO (ângulo replicável)
+## PARTE 1: ARQUÉTIPOS DE CONTEÚDO (ângulo replicável)
 
 Cada arquétipo traz: **quando usar**, **estrutura Sofia sugerida**, **beats**, **princípios que aciona**, **gatilho**, **evidência** e **erro comum**.
 
@@ -89,7 +89,7 @@ Cada arquétipo traz: **quando usar**, **estrutura Sofia sugerida**, **beats**, 
 - **Beats:** (1) entra pela desconfiança + dor banal → (2) pede pra IA → (3) reação genuína → (4) número escondido no fecho. Sem CTA.
 - **Princípios:** Familiaridade de memória (a bagunça) + Conflito na cabeça (ceticismo → prova).
 - **Gatilho:** identificação/debate + perguntas de "como".
-- **Evidência:** 🟢 @will_esl (PT-BR) — o molde PT-BR mais espelhável.
+- **Evidência:** 🟢 @will_esl (PT-BR): o molde PT-BR mais espelhável.
 - **Erro comum:** produção demais (perde a crueza); feche com um número real.
 
 ### A8. Polêmica / gancho de indignação
@@ -146,13 +146,13 @@ Cada arquétipo traz: **quando usar**, **estrutura Sofia sugerida**, **beats**, 
 - **Evidência:** 🔴 @musametas 3.8M.
 - **Erro comum:** aposta vazia; conta de padeiro sem número honesto.
 
-### A14. Esquete de cena — 1 pessoa, 2+ personagens (sátira da própria bolha)
+### A14. Esquete de cena: 1 pessoa, 2+ personagens (sátira da própria bolha)
 - **Quando usar:** máximo compartilhamento; satirizar a cultura do seu nicho.
 - **Estrutura Sofia:** esquete/diálogo (fora das 5). Se quiser esqueleto de argumento, encaixe a cena num **Jeito Errado × Jeito Certo** (o "errado" é a cena; o "certo" é a moral).
 - **Beats:** (1) abrir **no meio** de uma cena absurda, com frase-choque → (2) o outro responde com lógica ainda mais furada → (3) escalada → (4) corte seco, sem CTA. No fundo, uma verdade real.
 - **Princípios:** Familiaridade de memória (cena reconhecível) + Conflito (contraste) + humor.
 - **Gatilho:** identificação + **compartilhar**.
-- **Evidência:** 🟢/🔴 @alberta.nyc — appy-bill 1.3M, illegal-hiring 1.3M, stole-jobs-egos 715k (2026).
+- **Evidência:** 🟢/🔴 @alberta.nyc: appy-bill 1.3M, illegal-hiring 1.3M, stole-jobs-egos 715k (2026).
 - **Erro comum:** piada sem verdade; enfiar CTA (mata o share).
 
 ### A15. Hot-take contrária rápida (direto na câmera)
@@ -161,10 +161,10 @@ Cada arquétipo traz: **quando usar**, **estrutura Sofia sugerida**, **beats**, 
 - **Beats:** (1) tese contraintuitiva na 1ª frase → (2) 2–4 argumentos rápidos, cada um mais afiado → (3) fecho seco.
 - **Princípios:** Conflito de crença + Curiosidade (como vai defender?) + ritmo.
 - **Gatilho:** debate + compartilhar.
-- **Evidência:** 🟢/🔴 @alberta.nyc — hand-written 265k, grok-twitter 529k, bobby-tables 156k.
+- **Evidência:** 🟢/🔴 @alberta.nyc: hand-written 265k, grok-twitter 529k, bobby-tables 156k.
 - **Erro comum:** tese morna; justificativa lenta.
 
-> **Princípio transversal (@alberta.nyc):** toda piada/sátira **embala uma verdade real** do público. Humor sem verdade não compartilha. Notícia usada é **real** — o exagero é a piada, nunca o fato.
+> **Princípio transversal (@alberta.nyc):** toda piada/sátira **embala uma verdade real** do público. Humor sem verdade não compartilha. Notícia usada é **real**: o exagero é a piada, nunca o fato.
 
 ### Sub-padrões de gancho (variações que já viralizaram)
 - **Documento/relatório secreto + autoridade:** "Fulano publicou um documento que ninguém leu" + **plante uma frase e prometa voltar nela**. 🟢 @maestrosdaia.
@@ -173,18 +173,18 @@ Cada arquétipo traz: **quando usar**, **estrutura Sofia sugerida**, **beats**, 
 - **Skill nova + uso não-óbvio:** novidade → "o melhor uso não é o óbvio" → insight vira gancho. 🟢 @jackroberts 135k.
 - **Notícia-alarme (jornalístico):** enquadramento neutro escalando com números reais. 🔴 @bbcnews 1.4M. Honesto.
 
-### Playbook de retenção (storytelling) — @mino.mp4 (50M)
+### Playbook de retenção (storytelling): @mino.mp4 (50M)
 Aplicar dentro de qualquer arquétipo narrativo:
 1. **Hook** = objetivo + conflito específicos.
 2. **Click confirmation** = mostrar o protagonista agindo (a maioria pula).
 3. **Segundo conflito** = uma queda no meio.
 4. **Clímax** = a virada.
 5. **Lição** pro público.
-> Regra de ouro: **plante um segundo conflito no meio** — segura a retenção depois do hook.
+> Regra de ouro: **plante um segundo conflito no meio**: segura a retenção depois do hook.
 
 ---
 
-## PARTE 2 — Por NICHO
+## PARTE 2: Por NICHO
 
 ### N1. IA / Claude / criador (🟢 núcleo)
 - **Criadores-farol:** @jaredrhod, @practicalyai, @alex_intelligence, @onegirlstack, @filipeyabok.ia.
@@ -210,13 +210,13 @@ Aplicar dentro de qualquer arquétipo narrativo:
 ### N5. Drama/celebridade (espanhol) (🔴 fora, estudar gancho)
 - **Criador-farol:** @candresperedo.
 - **Arquétipos:** A8 (polêmica).
-- **Uso pra Sofia:** ritmo de escalada — **sem** herdar a fabricação.
+- **Uso pra Sofia:** ritmo de escalada, **sem** herdar a fabricação.
 
 ---
 
-## PARTE 3 — Por BOLHA (define o teto de alcance)
+## PARTE 3: Por BOLHA (define o teto de alcance)
 
-> Bolha = assunto de massa com muita gente produzindo E consumindo. Maior a bolha, maior o teto — menor a intenção comercial específica.
+> Bolha = assunto de massa com muita gente produzindo E consumindo. Maior a bolha, maior o teto, menor a intenção comercial específica.
 
 | Bolha | Teto | Intenção comercial | Como você entra | Ponte universal |
 |---|---|---|---|---|
@@ -235,6 +235,6 @@ Aplicar dentro de qualquer arquétipo narrativo:
 1. **Bolha e teto** do tema (Parte 3) + a ponte universal.
 2. **Nicho e arquétipo** (Partes 2 e 1) que servem à ideia que o vídeo vende.
 3. **Estrutura de roteiro** (a sugerida no arquétipo, dentre as 5 de `references/estruturas-de-roteiro/`).
-4. **Princípios** (`references/principios.md`) — verificar Tema, Familiaridade, Conflito/Mudança, Curiosidade e onde o Aha fecha ou fica em aberto.
-5. **Formato de gravação** com o criador — escolher em `references/formatos/` (o README casa arquétipo com formato) e seguir as "Regras de escrita" do arquivo escolhido.
+4. **Princípios** (`references/principios.md`): verificar Tema, Familiaridade, Conflito/Mudança, Curiosidade e onde o Aha fecha ou fica em aberto.
+5. **Formato de gravação** com o criador: escolher em `references/formatos/` (o README casa arquétipo com formato) e seguir as "Regras de escrita" do arquivo escolhido.
 6. **Gatilho** coerente com o objetivo (alcance = debate/compartilhar; lead = comenta-palavra; retenção = follow) e o **erro comum** do arquétipo.

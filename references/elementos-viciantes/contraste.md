@@ -1,102 +1,102 @@
 # Contraste
 
-**Voce so percebe o quente porque existe o frio. O contraste faz o sentimento ficar muito mais intenso.**
+**Você só percebe o quente porque existe o frio. O contraste faz o sentimento ficar muito mais intenso.**
 
-> IMPORTANTE: Os exemplos neste documento sao apenas referencias internas para ilustrar o principio. NAO devem ser usados em conversas com o usuario nem reproduzidos em roteiros. O que guia a escrita e a analise e o PRINCIPIO, nao os exemplos.
+> IMPORTANTE: Os exemplos neste documento são apenas referências internas para ilustrar o princípio. NÃO devem ser usados em conversas com o usuário nem reproduzidos em roteiros. O que guia a escrita e a análise é o PRINCÍPIO, não os exemplos.
 
-## O Principio
+## O Princípio
 
-Contraste e quando voce coloca duas coisas opostas lado a lado. Isso amplifica a emocao.
+Contraste é quando você coloca duas coisas opostas lado a lado. Isso amplifica a emoção.
 
-Nao e so a traicao que doi — e o contraste entre amor e raiva, confianca e traicao, que faz a dor ser enorme.
+Não é só a traição que dói: é o contraste entre amor e raiva, confiança e traição, que faz a dor ser enorme.
 
 ### Por que funciona
 
-- O cerebro humano processa o mundo por comparacao
+- O cérebro humano processa o mundo por comparação
 - Colocar opostos lado a lado amplifica a intensidade de ambos
-- O contraste faz o publico SENTIR mais forte
-- Gera debate mental: "e bom ou e ruim? e certo ou e errado?"
+- O contraste faz o público SENTIR mais forte
+- Gera debate mental: "é bom ou é ruim? é certo ou é errado?"
 
 ## Tipos de contraste
 
 ### Contraste emocional
 
-Alternar entre emocoes opostas ao longo do roteiro:
+Alternar entre emoções opostas ao longo do roteiro:
 
 - Positivo → negativo → positivo → negativo
-- Amor → raiva → admiracao → critica
+- Amor → raiva → admiração → crítica
 - Elogio → hate → elogio → hate
 
-O publico fica preso tentando entender: e a favor ou contra?
+O público fica preso tentando entender: é a favor ou contra?
 
 ### Contraste visual
 
-Mostrar duas imagens, cenas ou situacoes opostas sem precisar de palavras:
+Mostrar duas imagens, cenas ou situações opostas sem precisar de palavras:
 
 - Antes e depois
 - Rico e pobre
 - Sozinho e acompanhado
 - Caos e ordem
 
-O contraste visual pode funcionar sem nenhuma palavra — a imagem fala por si.
+O contraste visual pode funcionar sem nenhuma palavra: a imagem fala por si.
 
 ### Contraste de expectativa
 
-O publico espera uma coisa e recebe outra:
+O público espera uma coisa e recebe outra:
 
-- Comeca parecendo critica e vira elogio
-- Comeca parecendo simples e vira complexo
-- Comeca parecendo hate e vira admiracao
+- Começa parecendo crítica e vira elogio
+- Começa parecendo simples e vira complexo
+- Começa parecendo hate e vira admiração
 
-Esse tipo de contraste gera surpresa e prende a atencao.
+Esse tipo de contraste gera surpresa e prende a atenção.
 
 ### Contraste de linguagem
 
 Usar palavras opostas intencionalmente:
 
 - "cobra" e depois "diva" para a mesma pessoa
-- "fracasso" e depois "imperio" para a mesma historia
+- "fracasso" e depois "império" para a mesma história
 - "destruiu" e depois "construiu" para o mesmo evento
 
 ## Como o contraste gera engajamento
 
-O contraste provoca reacoes nos comentarios porque as pessoas precisam se posicionar:
+O contraste provoca reações nos comentários porque as pessoas precisam se posicionar:
 
 - "Eu ia amar ser odiada desse jeito"
-- "Comecei achando que era hate, mas era declaracao de amor"
-- "Nao sei se concordo ou discordo"
+- "Comecei achando que era hate, mas era declaração de amor"
+- "Não sei se concordo ou discordo"
 
-Quando o publico fica em duvida, ele comenta para tentar resolver a tensao interna.
+Quando o público fica em dúvida, ele comenta para tentar resolver a tensão interna.
 
 ## Como aplicar na escrita
 
-1. **Identifique os opostos do seu tema** — qual e o polo positivo e o negativo?
-2. **Alterne entre eles** — nao fique so no positivo ou so no negativo
-3. **Use a alternancia para criar ritmo** — positivo-negativo-positivo cria movimento
-4. **O contraste pode ser visual, verbal ou emocional** — escolha o que faz mais sentido
-5. **Feche com clareza** — depois de alternar, deixe claro qual e a sua posicao/moral
+1. **Identifique os opostos do seu tema:** qual é o polo positivo e o negativo?
+2. **Alterne entre eles:** não fique só no positivo ou só no negativo
+3. **Use a alternância para criar ritmo:** positivo-negativo-positivo cria movimento
+4. **O contraste pode ser visual, verbal ou emocional:** escolha o que faz mais sentido
+5. **Feche com clareza:** depois de alternar, deixe claro qual é a sua posição/moral
 
-## Como aplicar na analise
+## Como aplicar na análise
 
-Ao analisar um video, identifique:
+Ao analisar um vídeo, identifique:
 
-1. Ha elementos opostos sendo colocados lado a lado?
-2. O criador alterna entre emocoes positivas e negativas?
-3. O contraste amplifica a emocao ou confunde?
-4. Os comentarios mostram debate ou dualidade? (sinal de contraste efetivo)
-5. O contraste serve a mensagem ou e gratuito?
+1. Há elementos opostos sendo colocados lado a lado?
+2. O criador alterna entre emoções positivas e negativas?
+3. O contraste amplifica a emoção ou confunde?
+4. Os comentários mostram debate ou dualidade? (sinal de contraste efetivo)
+5. O contraste serve à mensagem ou é gratuito?
 
 ## Erros comuns
 
-- Contraste sem proposito (colocar opostos so por colocar)
-- Ficar so no positivo ou so no negativo (sem contraste = sem intensidade)
-- Nao resolver o contraste no final (deixa o publico confuso)
-- Contraste forcado que nao faz sentido com o tema
+- Contraste sem propósito (colocar opostos só por colocar)
+- Ficar só no positivo ou só no negativo (sem contraste = sem intensidade)
+- Não resolver o contraste no final (deixa o público confuso)
+- Contraste forçado que não faz sentido com o tema
 
 ## Checklist para o agente
 
 - [ ] O roteiro usa alguma forma de contraste?
-- [ ] O contraste amplifica a emocao do tema?
-- [ ] Ha alternancia de emocoes ao longo do roteiro?
-- [ ] O contraste serve a moral da historia?
-- [ ] O publico vai sentir a tensao entre os opostos?
+- [ ] O contraste amplifica a emoção do tema?
+- [ ] Há alternância de emoções ao longo do roteiro?
+- [ ] O contraste serve à moral da história?
+- [ ] O público vai sentir a tensão entre os opostos?

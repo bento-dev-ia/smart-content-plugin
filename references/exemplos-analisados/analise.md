@@ -1,4 +1,4 @@
-# Exemplos Analisados — Análise
+# Exemplos Analisados: Análise
 
 Dois roteiros reais de @hanahfranklin, os mais curtidos de 13 vídeos do formato. Transcrição literal (erros de fala corrigidos entre colchetes). Entre `\[ \]`, a função da frase e por que funciona.
 
@@ -12,13 +12,13 @@ Dois roteiros reais de @hanahfranklin, os mais curtidos de 13 vídeos do formato
 \[CLIPE-GANCHO do analisado, 3 s: tema de massa (imposto), se entende sem contexto, punchline no fim\]
 *(clipe)* "Só paga imposto de renda quem não tem contato na agenda."
 
-\[RÓTULO — notícia falsa cômica: acusação absurda sobre algo inofensivo, em lista de 3 com o 3º item sendo uma "verdade popular" que o público assina embaixo\]
+\[RÓTULO, notícia falsa cômica: acusação absurda sobre algo inofensivo, em lista de 3 com o 3º item sendo uma "verdade popular" que o público assina embaixo\]
 Esse professor tá sendo investigado por ensinar lavagem de dinheiro, gerenciamento de contatinhos, e que entre esquerda ou direita é o povo que sempre toma no f...
 
-\[Assinatura do analisado ("Vamos entender?") usada como ponte — familiaridade para quem já viu\]
+\[Assinatura do analisado ("Vamos entender?") usada como ponte: familiaridade para quem já viu\]
 Vamos entender?
 
-\[Provocação ao espectador em tom de piada — cria pertencimento de quem "conhece"\]
+\[Provocação ao espectador em tom de piada: cria pertencimento de quem "conhece"\]
 Se você não conhece o Professor Crônicas, é porque você é pobre e não paga o Instapremium.
 
 \[Virada do rótulo em elogio: superlativo "da internet"\]
@@ -33,7 +33,7 @@ Ensina tudo o que você precisa saber sobre política, filosofia e putaria.
 \[PROMESSA aos 26 s, com o analisado como sujeito; "três" cria contagem; bordão "dominar a internet brasileira"\]
 Por isso hoje a gente vai analisar os três princípios que o Professor Crônicas usa pra dominar a internet brasileira.
 
-\[PRINCÍPIO 1 — nome tirado do próprio analisado, com palavrão censurado: ninguém esquece\]
+\[PRINCÍPIO 1, nome tirado do próprio analisado, com palavrão censurado: ninguém esquece\]
 O Filha da P*** é um CDF.
 
 \[Prova em lista de 3 com anticlímax: sério, sério, absurdo\]
@@ -42,16 +42,16 @@ Ele cita a Revolução Francesa. Conhece Einstein, Platão e Aristóteles pessoa
 \[Clipe-prova: o princípio acontece sozinho, sem explicação\]
 *(clipe)* "Só lava o cabelo quem não sabe lavar dinheiro. Quem disse isso foi Jeff Bezos."
 
-\[Reação de fã — quem apresenta não conta a piada, reage a ela\]
+\[Reação de fã: quem apresenta não conta a piada, reage a ela\]
 Eu fico me perguntando como ele detém tanto conhecimento.
 
 \[MECÂNICA por inversão + vilão comum: "pode parecer só X, mas tem mais Y do que a maioria dos Z que…"\]
 Porque pode parecer só zoeira, mas as aulas do cara têm mais informações verídicas do que a maioria dos criadores de conteúdo que coloca print de estudo científico que nem lê.
 
-\[LIÇÃO como bronca ao espectador ("tu", intimidade) — a análise vira diagnóstico dele\]
+\[LIÇÃO como bronca ao espectador ("tu", intimidade): a análise vira diagnóstico dele\]
 Explica por que ninguém assiste os seus vídeos. Já que tu é preguiçoso, não faz pesquisa e nunca entrega um conteúdo que faz as pessoas sentirem que aprenderam algo novo.
 
-\[PRINCÍPIO 2 — trio culto + pop + baixo (Choquei é página de fofoca); "Porque sim" dispensa justificativa, tom de amiga\]
+\[PRINCÍPIO 2: trio culto + pop + baixo (Choquei é página de fofoca); "Porque sim" dispensa justificativa, tom de amiga\]
 Dois. Nós? Cultura, Choquei e festas universitárias. Porque sim.
 
 \[Prova por contraste: "o mesmo cara que [3 coisas sérias] é o mesmo que [3 coisas baixas]"\]
@@ -75,7 +75,7 @@ Três. Formato criativo Telecurso 2000.
 \[Generalização: o analisado vira prova de uma lei geral\]
 É assim que ele e os maiores criadores de conteúdo do país têm uma média de views tão alta.
 
-\[VIRADA — pergunta-espelho: o espectador passa de plateia a paciente\]
+\[VIRADA, pergunta-espelho: o espectador passa de plateia a paciente\]
 Será que não é um formato criativo que tá faltando no seu conteúdo?
 
 \[CTA com callback do analisado: "pena que ele não ensina… mas eu ensino"\]
@@ -90,10 +90,10 @@ Será que não é um formato criativo que tá faltando no seu conteúdo?
 
 ---
 
-\[CLIPE-GANCHO: autoironia da própria analisada sobre o corpo — a piada sensível é DELA, não de quem apresenta\]
+\[CLIPE-GANCHO: autoironia da própria analisada sobre o corpo (a piada sensível é DELA, não de quem apresenta)\]
 *(clipe)* "Isso não é uma saia, é um tamborete."
 
-\[RÓTULO — superlativo "da internet" + segundo atributo com vilão (hater)\]
+\[RÓTULO: superlativo "da internet" + segundo atributo com vilão (hater)\]
 Essa mulher tem o amor-próprio mais imbatível da internet. E uma comunicação que deixa o hater com vergonha e sem saber o que falar.
 
 \[Clipe-prova do rótulo, curto\]
@@ -105,7 +105,7 @@ Ela tem 3 milhões de seguidores e contando. Vídeos com mais de 20 milhões de 
 \[PROMESSA aos 23 s (variante "análise do formato viral")\]
 Por isso, essa é a análise do formato viral pra você se inspirar e dominar a internet brasileira.
 
-\[PRINCÍPIO 1 — nome tirado do formato da analisada (piadinhas, aula, inspiração) + lei geral em trio\]
+\[PRINCÍPIO 1: nome tirado do formato da analisada (piadinhas, aula, inspiração) + lei geral em trio\]
 Piadinhas, aula e inspiração. Pra dar certo na internet hoje, você inevitavelmente vai precisar de uma dessas 3 coisas: ensinar, entreter ou inspirar. Mas a Edi é genial fazendo as 3.
 
 \[Prova: cada item do trio ilustrado por um clipe que acontece sozinho\]
@@ -114,7 +114,7 @@ Ela te faz rir zombando dos próprios problemas. *(clipe)* "Menina, nem na tela 
 \[PONTE encadeada, não só numerada\]
 O que já se conecta com o pilar número 2:
 
-\[PRINCÍPIO 2 — conceito-marca reaproveitado ("efeito jornada") + anáfora "a gente vê / surta / vibra" (pertencimento)\]
+\[PRINCÍPIO 2: conceito-marca reaproveitado ("efeito jornada") + anáfora "a gente vê / surta / vibra" (pertencimento)\]
 Efeito jornada. Toda semana a gente vê ela evoluindo nos esportes. Surta junto com cada lookinho novo que ela mostra. Principalmente vibra com cada passo que ela dá no processo de emagrecimento.
 
 \[MECÂNICA por escada: "contar é legal, mas viver junto é mil vezes mais poderoso"\]
@@ -126,10 +126,10 @@ Três: formato criativo "arrume-se comigo". Quando a Edi aparece mostrando o loo
 \[Generalização com bordão\]
 A Edi e os maiores criadores de conteúdo do país crescem sem parar depois de encontrar um formato e repetir, repetir, repetir.
 
-\[VIRADA — bronca com ano ("em 2026")\]
+\[VIRADA: bronca com ano ("em 2026")\]
 Não faz sentido! Você tá criando conteúdo em 2026 sem buscar encontrar o seu formato criativo?
 
-\[CTA — prova social em escada (10, 30, 50, 100 mil) + oferta gratuita\]
+\[CTA: prova social em escada (10, 30, 50, 100 mil) + oferta gratuita\]
 Nas últimas semanas eu ajudei centenas de pessoas dos nichos mais difíceis a bater 10, 30, 50, até 100 mil seguidores usando essa estratégia. E se você quer aprender com o primeiro e melhor curso do país que te ensina a encontrar o seu formato, é só tocar no link da minha bio que eu deixei uma aula gratuita pra você.
 
 ---

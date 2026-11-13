@@ -1,6 +1,6 @@
 {
   "name": "sofia",
-  "version": "2.5.0",
+  "version": "3.10.1",
   "description": "Plugin inteligente para pesquisa de vídeos virais e escrita de roteiros, guiado por princípios de Psicologia Cognitiva do Engajamento",
   "author": "srbentostk",
   "license": "MIT",
@@ -13,6 +13,12 @@
     "claude-code-plugin"
   ],
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=20.0.0"
+  },
+  "dependencies": {
+    "@google/genai": "^2.20.0"
+  },
+  "overrides": {
+    "ws": "^8.21.0"
   }
 }
