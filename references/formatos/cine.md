@@ -5,6 +5,12 @@
 ## O que é
 Vídeo com estética cinematográfica: planos bem compostos, trilha sonora, narração ou diálogo roteirizado, cortes precisos. O conteúdo parece um mini-filme.
 
+## Assinatura visual
+- Planos compostos e variados (geral, detalhe, contraplano), às vezes em proporção de cinema
+- Trilha sonora conduzindo a emoção; pouca ou nenhuma fala direta para a câmera
+- Cortes marcados pelo ritmo da trilha ou da ação, não por frase dita
+- Cor tratada, luz pensada, câmera estável ou em movimento controlado
+
 ## Estrutura que combina melhor
 [IHC](../estruturas-de-roteiro/ihc.md) com abertura de cena imersiva
 
@@ -23,6 +29,11 @@ Cena imersiva que coloca o espectador dentro de um momento específico antes de 
 6. A moral nunca é dita explicitamente — emerge da última cena
 7. O ritmo do texto deve refletir o ritmo do corte (frases curtas = cortes rápidos)
 8. O CTA, se houver, deve ser integrado naturalmente ao final da cena
+
+## Não confundir
+- Storytelling Visual: conta a história com textos e gráficos na tela; Cine conta com planos e atuação.
+- Dinamismo: também corta muito, mas por energia; Cine corta para construir cena e emoção.
+- Vlog bem filmado: registra o que aconteceu; Cine encena um momento roteirizado.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

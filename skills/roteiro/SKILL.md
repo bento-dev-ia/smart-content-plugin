@@ -1,4 +1,5 @@
 ---
+name: roteiro
 description: Escreve roteiro para conteúdo viral de forma conversacional, guiado pelos princípios de Psicologia Cognitiva do Engajamento. Faz perguntas, sugere hooks, oferece versões e análise crítica.
 ---
 
@@ -42,7 +43,7 @@ Antes de tudo, verificar se existe perfil de estilo:
 
 **Bloco 3 — Contexto criativo:**
 8. "Tem alguma referência de vídeo que gosta?"
-9. "Qual formato de gravação você consegue fazer?" — sugerir a partir de `references/formatos/README.md` (tela dividida, narrado, tela verde, palestrinha, cine, dinamismo, diálogo, bastidores, comparação, experimento social, caixinha polêmica, storytelling visual, the office)
+9. "Qual formato de gravação você consegue fazer?" — consultar o catálogo completo em `references/formatos/README.md` e sugerir opções compatíveis com o tema, a intenção e os recursos reais do usuário. O catálogo tem 23 formatos; não se limite aos exemplos mais antigos.
 10. "Tem alguma restrição? (duração, tom, assuntos a evitar)"
 
 Se o usuário não souber a ideia, ajude:
@@ -77,7 +78,7 @@ Depois de escolhido, abrir `references/formatos/<formato>.md` e usar as **Regras
 
 ### Fase 3: Hook (3-5 sugestões)
 
-Gerar hooks variados, cada um usando princípios diferentes:
+Gerar hooks variados, cada um usando princípios diferentes. **O Hook 1 é sempre um choque de crença** (hipótese em teste, ver `knowledge/hooks-que-funcionam.md`): contraria o que o público acredita e diz o que ele gostaria que fosse verdade. Mostrar junto: crença → desejo → onde o vídeo paga.
 
 ```
 Hook 1: [frase] 
@@ -131,11 +132,27 @@ Se a crítica identificar problemas:
 
 Se sim → ativar agente `melhorador`.
 
+### Fase 8: Lista de gravação (Obsidian)
+
+Sempre que o roteiro chegar a `status: PRONTO PARA GRAVAR`, ou quando o usuário pedir para ver/priorizar o que está pronto para gravar (mesmo sem ter acabado de escrever nada nesta conversa), gerar a lista de abertura rápida:
+
+**Por quê:** links `obsidian://` não funcionam quando clicados a partir do chat. O formato que funciona é nome de arquivo (sem `.md`) para colar no Quick Switcher (`Cmd+O`).
+
+**Formato:**
+1. Dar o caminho absoluto da pasta UMA vez, em bloco de código.
+2. Listar cada roteiro pronto, em ORDEM DE PRIORIDADE (não alfabética/numérica), cada nome de arquivo exato (sem `.md`) em seu próprio bloco de código.
+3. Critério de priorização, nessa ordem:
+   - **Notícia com prazo de validade** (arquétipo A2 Newsjacking, ou qualquer roteiro com `⚠️ Honestidade` avisando sobre data/fato que muda) vem primeiro, e quanto mais dias desde a `data` do frontmatter, maior a urgência — sinalizar explicitamente quantos dias se passaram e que os fatos precisam ser reconferidos antes de gravar.
+   - Depois, roteiros que terminam num gatilho de DM/comentário ligado a uma dor de vendas real do momento (ex.: primeira venda sem audiência, não dar conta de prospectar/postar) — checar `knowledge/dashboard-insights.md` e o TO-DO/plano ativo do vault se precisar confirmar qual dor está em foco agora.
+   - Por último, conteúdo evergreen (educativo, comparação, funcionalidade sem prazo) — sempre disponíveis, sem pressa de data.
+4. Se algum roteiro newsjacking já passou de ~5-7 dias da `data` do frontmatter, avisar explicitamente que o conteúdo pode estar defasado e perguntar se ainda vale a pena gravar como está ou se precisa de uma atualização rápida antes.
+
 ## Regras durante toda escrita
 
 - SEMPRE consultar `references/principios.md` antes de escrever
 - Consultar `knowledge/arquetipos-nichos-bolhas.md` (arquétipo/ângulo certo por bolha/nicho, com a estrutura sugerida) e `knowledge/dashboard-insights.md` (assuntos/dores/hooks que já deram views) ao escolher tema, dor e hook
 - SEMPRE consultar `references/como-escrever-bem.md` — escrever como a pessoa fala, não como se escreve
+- SEMPRE rodar `references/sem-slop.md` antes de entregar qualquer versão: matar advérbio em -mente, travessão no corpo, "não é X, é Y", frase de efeito e voz passiva
 - Se existe perfil de estilo do usuário em `knowledge/estilos/`, SEGUIR o tom, ritmo, palavras e tipo de abertura do perfil
 - NUNCA inventar personagens, histórias ou dados
 - Se usar pessoa real, DEVE ser verificável com fonte

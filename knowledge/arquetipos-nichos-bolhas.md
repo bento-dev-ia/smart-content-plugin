@@ -16,7 +16,7 @@ Padrões extraídos de vídeos reais com +100k views. Servem para a Sofia **esco
 |---|---|---|
 | **Princípios da viralização** | POR QUE funciona | `references/principios.md` — Tema → Familiaridade → Conflito e Mudança → Curiosidade → Aha/Ausência. É a lei; tudo passa por aqui. |
 | **Estrutura de roteiro** | COMO o argumento se organiza | `references/estruturas-de-roteiro/` — as 5: **AIDA**, **IHC**, **Jeito Errado × Jeito Certo**, **Ele/Eu/Você/Futuro**, **Análise**. |
-| **Formato de gravação** | COMO se grava | `references/formatos/` — 13 formatos (Tela Verde, tela dividida, narrado, palestrinha, cine…), cada um com regras de escrita próprias. |
+| **Formato de gravação** | COMO se grava | `references/formatos/` — 23 formatos (Tela Verde, Vlog, Análise, Analogia, Lo-Fi, Cine…), cada um com regras de escrita próprias. |
 | **Arquétipo de conteúdo** (ESTE arquivo) | QUAL ângulo/molde já provou pegar | Observação de campo (não é lei). Ex.: série, newsjacking, listicle, esquete, hot-take. |
 
 > Nota honesta: as 5 estruturas da Sofia são de **monólogo/narração**. Arquétipos de **esquete/diálogo** (A11, A14) não encaixam nelas — nesses, aplique os princípios direto. O mapeamento abaixo é sugestão, não camisa de força.

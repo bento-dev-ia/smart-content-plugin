@@ -8,6 +8,39 @@ tags: [sofia, hooks, knowledge]
 
 Base evolutiva de hooks coletados de vídeos virais analisados.
 
+## ⚡ Hipótese em teste: hook de choque de crença (desde 18/09/2026)
+
+**A hipótese do Bento:** o hook que mais prende causa um **conflito mental**. Ele contraria o que a pessoa acredita (no nicho dele, o que ela acredita sobre IA e sobre criar conteúdo) **e** diz uma coisa que ela gostaria que fosse verdade. O resultado choca.
+
+**Exemplos de referência do Bento:**
+- "Pare de postar no Instagram."
+- "Postar todo dia no Instagram foi a pior dica que eu recebi."
+- "Homem é preso por emagrecer rápido demais."
+
+**Por que funcionam.**
+- "Pare de postar no Instagram": a crença é que precisa postar pra crescer. O desejo secreto é postar menos e ir bem mesmo assim. O choque é uma ordem que contraria a regra que todo mundo segue.
+- "Postar todo dia foi a pior dica": a crença é que constância diária é obrigatória. O desejo secreto é que não precise. O choque vem de uma dica "sagrada" chamada de pior.
+- "Homem é preso por emagrecer rápido demais": a crença é que emagrecer rápido é bom. O choque vem de uma consequência absurda, que abre a pergunta "como assim?".
+
+**Fórmula.** [a crença que o público tem] → vira do avesso → a versão que ele queria que fosse verdade, dita como ordem, confissão ou consequência absurda.
+- **Ordem:** "Pare de [coisa que todo mundo faz]." / "Apaga [coisa que todo mundo guarda]." / "Cancela [coisa que todo mundo assina]."
+- **Confissão:** "[Regra sagrada] foi a pior dica que eu recebi."
+- **Consequência absurda:** "[Pessoa] [punição ou perda] por [fazer a coisa que todo mundo acha boa]."
+
+**Como a Sofia pensa o hook a partir de agora.**
+1. Escreve em uma linha o que o público **acredita** sobre o tema.
+2. Escreve em uma linha o que ele **gostaria que fosse verdade** (normalmente é menos trabalho, menos custo ou menos culpa).
+3. O hook afirma o item 2 contra o item 1, com o menor número de palavras possível.
+4. Aponta **onde o vídeo paga o choque**. Se o corpo do roteiro não prova a afirmação, o hook não serve.
+5. Em todo pedido de hook, a opção 1 é sempre um choque de crença. As outras seguem os tipos abaixo, pra comparar.
+
+**Limites (valem mais que o choque).**
+- O choque tem que ser verdade, ou a opinião sincera do criador provada no vídeo. Nada de notícia inventada: "homem é preso" só serve se aconteceu e tem fonte.
+- Promessa de resultado ("vai crescer", "vai faturar") não entra. Ordem de parar entra.
+- Continua valendo o `references/sem-slop.md`. O hook de choque puxa pro "não é X, é Y": troca por ordem direta.
+
+**Como medir.** Gravar o hook atual (A) e o de choque (B) com o mesmo corpo. Comparar a retenção dos 3 primeiros segundos e as views em 48h. Anotar o resultado aqui na tabela de hooks coletados, com os números.
+
 ## Hooks coletados
 
 | # | Hook | Princípios | Fonte | Views |

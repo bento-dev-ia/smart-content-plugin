@@ -5,6 +5,12 @@
 ## O que é
 Criador compara duas opções, abordagens, pessoas ou situações de forma estruturada, revelando qual é melhor (e por quê) com base em evidências.
 
+## Assinatura visual
+- Duas opções lado a lado ou em sequência: dois produtos, dois jeitos, antes e depois
+- Marcas visuais de oposição: tela partida, ✗ e ✓, cores diferentes para cada lado
+- Critérios aparecem um por um, como texto na tela ou falados
+- Um veredito claro no fim, dito ou mostrado
+
 ## Estrutura que combina melhor
 [Análise](../estruturas-de-roteiro/analise.md) + Contraste
 
@@ -23,6 +29,11 @@ Contraste inesperado que opõe os dois elementos na primeira frase de forma que 
 6. A virada narrativa é o critério decisivo que muda tudo
 7. A moral deve ser a lição que emerge da comparação, não a preferência pessoal do criador
 8. O CTA deve convidar o espectador a aplicar o critério decisivo na própria vida
+
+## Não confundir
+- Tela Dividida: a tela partida mostra conteúdo externo sendo comentado; na Comparação os dois lados são as opções comparadas.
+- Análise: interpreta um sujeito só; Comparação precisa de dois lados com critério.
+- Jeito Errado × Jeito Certo é estrutura de roteiro, não formato: pode ser gravado em Palestrinha e não virar Comparação.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

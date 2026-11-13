@@ -5,6 +5,12 @@
 ## O que é
 Criador narra ou comenta um conteúdo externo (vídeo de outra pessoa, cena real) enquanto esse conteúdo aparece ao lado ou ao fundo.
 
+## Assinatura visual
+- A tela partida em duas: conteúdo externo de um lado (ou em cima), o criador reagindo do outro
+- O conteúdo externo é de outra pessoa: vídeo, post, cena real, notícia
+- O criador pausa, aponta ou comenta partes do conteúdo externo
+- Às vezes aparece o recurso nativo de dueto ou remix da plataforma
+
 ## Estrutura que combina melhor
 [Ele-Eu-Você-Futuro](../estruturas-de-roteiro/ele-eu-voce-futuro.md) + Contraste
 
@@ -23,6 +29,11 @@ Declaração de consequência curiosa ou cena imersiva em segunda pessoa.
 6. A moral deve virar a câmera para o espectador
 7. Use marcas, programas e nomes reais e verificáveis
 8. O CTA deve ser consequência natural da moral
+
+## Não confundir
+- Comparação: os dois lados são opções sendo comparadas; na Tela Dividida um lado é o conteúdo comentado e o outro é o criador.
+- Tela Verde: o conteúdo externo aparece ATRÁS do criador, como fundo; na Tela Dividida ele divide o quadro.
+- Análise: interpreta um sujeito com inserts intercalados; se o conteúdo externo fica na tela junto do criador, é Tela Dividida.
 
 ## Exemplo analisado
 Roteiro real deste formato, anotado frase a frase: [`exemplos-analisados/tela-dividida.md`](../exemplos-analisados/tela-dividida.md)

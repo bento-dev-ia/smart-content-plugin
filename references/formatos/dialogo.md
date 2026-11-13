@@ -5,6 +5,12 @@
 ## O que é
 Criador interpreta dois personagens em uma conversa que ilustra um conflito, um ensinamento ou uma situação cômica/dramática.
 
+## Assinatura visual
+- O mesmo criador interpreta dois ou mais personagens, trocando de lado do quadro
+- Troca de figurino, acessório, posição ou ângulo para marcar cada personagem
+- Corte a cada fala, como campo e contracampo
+- Nenhum personagem fala com quem assiste: eles falam entre si
+
 ## Estrutura que combina melhor
 Jeito Errado × Jeito Certo ou [IHC](../estruturas-de-roteiro/ihc.md)
 
@@ -23,6 +29,11 @@ Primeira fala de um dos personagens que cria tensão ou contraste imediato sem c
 6. A virada narrativa é o momento em que um personagem muda de posição ou é surpreendido
 7. A moral emerge da resolução do conflito entre os personagens
 8. O CTA deve conectar o espectador com o personagem que representa sua posição atual
+
+## Não confundir
+- Narrador: o personagem em cena reage a uma voz off que não aparece; no Diálogo os dois lados aparecem.
+- The Office: tem o olhar para a câmera em tom de confessionário; Diálogo não quebra a quarta parede.
+- Conflito Situacional: pode ter duas pessoas reais em cena; Diálogo é o mesmo criador fazendo os dois.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

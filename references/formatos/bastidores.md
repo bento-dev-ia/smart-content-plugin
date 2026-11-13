@@ -5,6 +5,12 @@
 ## O que é
 Vídeo que mostra o processo real por trás de um resultado, criação ou rotina. Cria senso de acesso exclusivo e autenticidade.
 
+## Assinatura visual
+- Mostra o trabalho acontecendo: mãos, ferramentas, tela, bancada ou set em uso
+- O resultado final aparece no começo ou no fim, e o meio é o processo
+- Ambiente real de trabalho, com bagunça e ferramentas à vista
+- Fala direta ou narração explicando o que está sendo feito enquanto é feito
+
 ## Estrutura que combina melhor
 [IHC](../estruturas-de-roteiro/ihc.md) com abertura de resultado antes do processo
 
@@ -23,6 +29,11 @@ Declaração do resultado surpreendente antes de revelar o processo ("fiz X em Y
 6. O Efeito Ahá é a revelação do que realmente importou no processo
 7. A moral deve ser uma lição aprendida no processo, não uma teoria prévia
 8. O CTA deve convidar o espectador a tentar o mesmo processo ou a seguir para ver mais bastidores
+
+## Não confundir
+- Vlog: registra um dia ou uma experiência; Bastidores registra o processo de UM resultado específico.
+- Lo-Fi: é sobre a produção crua; Bastidores pode ser bem produzido, o que define é mostrar o processo.
+- Tela Verde: se o processo aparece só como print atrás do criador, é Tela Verde, não Bastidores.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

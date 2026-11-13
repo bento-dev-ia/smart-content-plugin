@@ -5,6 +5,12 @@
 ## O que é
 Vídeo com estética de mockumentary: câmera fixa ou levemente instável, criador olha para a câmera como se fosse uma entrevista de documentário, tom entre sério e irônico.
 
+## Assinatura visual
+- Olhar direto para a câmera no meio de uma cena, como em entrevista de documentário
+- Cortes entre a cena acontecendo e o depoimento confessional
+- Câmera fixa ou levemente instável, estética de mockumentary
+- Humor pela reação silenciosa: o olhar para a câmera diz o que a fala não diz
+
 ## Estrutura que combina melhor
 [IHC](../estruturas-de-roteiro/ihc.md) com narração interna (olhar para a câmera como confissão)
 
@@ -23,6 +29,11 @@ Declaração direta para a câmera que cria intimidade e estranheza ao mesmo tem
 6. A moral emerge como uma confissão, não como um ensinamento
 7. Use pausas e silêncios estratégicos — o ritmo do the-office é o que cria o humor
 8. O CTA deve ser entregue com o mesmo tom confessional do restante do vídeo
+
+## Não confundir
+- Diálogo: os personagens falam entre si sem quebrar a quarta parede; The Office quebra de propósito.
+- Palestrinha: fala para a câmera como apresentação; The Office fala como personagem em confessionário.
+- Narrador: a voz off comenta o personagem; no The Office é o próprio personagem que comenta a cena.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

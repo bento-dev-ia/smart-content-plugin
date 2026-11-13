@@ -5,6 +5,12 @@
 ## O que é
 Criador narra em voz off enquanto imagens, clips ou textos aparecem na tela. O roteiro é construído para ser lido em narração, não como fala direta.
 
+## Assinatura visual
+- Voz off do começo ao fim; o criador quase não aparece falando para a câmera
+- Imagens, clips, prints ou textos se sucedendo sobre a narração
+- O corte segue a narração: cada frase troca a imagem
+- Legenda costuma acompanhar a voz
+
 ## Estrutura que combina melhor
 [IHC](../estruturas-de-roteiro/ihc.md) ou [Análise](../estruturas-de-roteiro/analise.md)
 
@@ -23,6 +29,11 @@ Cena imersiva ou declaração de consequência que cria imagem mental forte na p
 6. Use tempo verbal presente para criar imersão ("ele entra", não "ele entrou")
 7. O Efeito Ahá deve ser entregue no exato momento em que o visual confirma o argumento
 8. O CTA deve ser falado como consequência inevitável do que acabou de ser mostrado
+
+## Não confundir
+- Narrador: um personagem em cena REAGE à voz off; no Narrado a voz conduz e as imagens ilustram.
+- Storytelling Visual: a história é contada principalmente por textos e gráficos animados; no Narrado quem conta é a voz.
+- Análise: usa inserts como evidência com o criador aparecendo e interpretando; se a voz é off do começo ao fim, é Narrado.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

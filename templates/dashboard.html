@@ -1,468 +1,57 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sofia 2.0 — Análise</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;600;700;800&family=Space+Grotesk:wght@400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg-dark: #18181b;
-            --bg-card: #1e1e24;
-            --bg-card-hover: #26262e;
-            --orange: #ff4d00;
-            --purple: #7967ff;
-            --pink: #cc3366;
-            --text-primary: #f4f4f5;
-            --text-secondary: #a1a1aa;
-            --text-muted: #71717a;
-            --gradient-main: linear-gradient(135deg, #ff4d00, #7967ff);
-            --gradient-btn: linear-gradient(to right, #ff4d00 0%, #7967ff 51%, #ff4d00 100%);
-            --gradient-subtle: linear-gradient(135deg, rgba(255,77,0,0.1), rgba(121,103,255,0.1));
-            --radius-pill: 100px;
-            --radius-card: 16px;
-            --radius-sm: 8px;
-            --font-body: 'Sora', sans-serif;
-            --font-heading: 'Space Grotesk', sans-serif;
-            --font-mono: 'Space Mono', monospace;
-        }
-
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-        body {
-            font-family: var(--font-body);
-            background: var(--bg-dark);
-            color: var(--text-primary);
-            line-height: 1.7;
-        }
-        .container { max-width: 900px; margin: 0 auto; padding: 2rem; }
-
-        /* Header */
-        .header {
-            border-bottom: 2px solid var(--orange);
-            padding-bottom: 1.5rem;
-            margin-bottom: 2rem;
-            position: relative;
-        }
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -2rem; left: -2rem; right: -2rem;
-            height: 4px;
-            background: var(--gradient-main);
-        }
-        .header h1 {
-            font-family: var(--font-heading);
-            font-size: 1.5rem;
-            font-weight: 700;
-            background: var(--gradient-main);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-        .header .meta { color: var(--text-muted); font-size: 0.85rem; margin-top: 0.3rem; }
-        .header .meta a { color: var(--purple); text-decoration: none; }
-        .header .meta a:hover { text-decoration: underline; }
-        .header .sofia-badge {
-            position: absolute;
-            top: 0;
-            right: 0;
-            font-family: var(--font-mono);
-            font-size: 0.6rem;
-            letter-spacing: 0.15em;
-            text-transform: uppercase;
-            color: var(--orange);
-            background: rgba(255,77,0,0.08);
-            border: 1px solid rgba(255,77,0,0.2);
-            padding: 0.25rem 0.8rem;
-            border-radius: var(--radius-pill);
-        }
-
-        /* Sections */
-        .section { margin-bottom: 2.5rem; }
-        .section-title {
-            font-family: var(--font-mono);
-            font-size: 0.65rem;
-            text-transform: uppercase;
-            letter-spacing: 0.2em;
-            color: var(--orange);
-            margin-bottom: 1rem;
-            padding-bottom: 0.4rem;
-            border-bottom: 1px solid #2e2e36;
-        }
-
-        /* Diagnóstico */
-        .diagnostico {
-            background: var(--bg-card);
-            border-left: 3px solid var(--orange);
-            padding: 1.2rem 1.5rem;
-            border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
-            margin-bottom: 1.5rem;
-        }
-        .diagnostico p { margin: 0.3rem 0; font-size: 0.9rem; color: var(--text-secondary); }
-        .diagnostico strong { color: var(--purple); }
-
-        /* Roteiro anotado */
-        .frase-block {
-            margin-bottom: 1rem;
-            padding: 1rem 1.2rem;
-            border-radius: var(--radius-sm);
-            background: var(--bg-card);
-            border: 1px solid #2e2e36;
-            transition: all 0.2s;
-        }
-        .frase-block:hover {
-            background: var(--bg-card-hover);
-            border-color: rgba(255,77,0,0.2);
-        }
-        .principio-tag {
-            display: inline-block;
-            font-family: var(--font-mono);
-            font-size: 0.6rem;
-            text-transform: uppercase;
-            letter-spacing: 0.08em;
-            padding: 0.2rem 0.6rem;
-            border-radius: var(--radius-pill);
-            margin: 0.1rem 0.3rem 0.1rem 0;
-        }
-        .principio-tag.tema { background: rgba(121,103,255,0.15); color: #b39ddb; border: 1px solid rgba(121,103,255,0.25); }
-        .principio-tag.familiaridade { background: rgba(74,222,128,0.1); color: #81c784; border: 1px solid rgba(74,222,128,0.2); }
-        .principio-tag.conflito { background: rgba(255,77,0,0.12); color: #ef9a9a; border: 1px solid rgba(255,77,0,0.25); }
-        .principio-tag.curiosidade { background: rgba(96,165,250,0.1); color: #81d4fa; border: 1px solid rgba(96,165,250,0.2); }
-        .principio-tag.contraste { background: rgba(250,204,21,0.1); color: #ffe082; border: 1px solid rgba(250,204,21,0.2); }
-        .principio-tag.aha { background: rgba(204,51,102,0.12); color: #ce93d8; border: 1px solid rgba(204,51,102,0.2); }
-        .principio-tag.moral { background: rgba(45,212,191,0.1); color: #80cbc4; border: 1px solid rgba(45,212,191,0.2); }
-        .principio-tag.debate { background: rgba(251,146,60,0.1); color: #ffab91; border: 1px solid rgba(251,146,60,0.2); }
-        .principio-tag.identificacao { background: rgba(96,165,250,0.08); color: #90caf9; border: 1px solid rgba(96,165,250,0.15); }
-        .principio-tag.linguagem { background: rgba(163,230,53,0.08); color: #c5e1a5; border: 1px solid rgba(163,230,53,0.15); }
-        .principio-tag.ritmo { background: rgba(244,114,182,0.1); color: #f48fb1; border: 1px solid rgba(244,114,182,0.2); }
-
-        .analise-texto {
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            margin: 0.4rem 0;
-            font-style: italic;
-        }
-        .frase-texto {
-            font-size: 0.95rem;
-            color: var(--text-primary);
-            margin-top: 0.4rem;
-        }
-
-        /* Hook */
-        .hook-card {
-            background: var(--gradient-subtle);
-            border: 1px solid rgba(255,77,0,0.25);
-            border-radius: var(--radius-card);
-            padding: 1.5rem;
-            margin-bottom: 1rem;
-        }
-        .hook-card blockquote {
-            font-family: var(--font-heading);
-            font-size: 1.2rem;
-            color: #fff;
-            border-left: 3px solid var(--orange);
-            padding-left: 1rem;
-            margin: 0.5rem 0;
-            font-weight: 600;
-        }
-        .hook-nota {
-            display: inline-block;
-            background: var(--gradient-main);
-            color: white;
-            font-family: var(--font-mono);
-            font-size: 0.75rem;
-            font-weight: 700;
-            padding: 0.25rem 0.7rem;
-            border-radius: var(--radius-pill);
-            margin-top: 0.5rem;
-        }
-
-        /* Comentários */
-        .comment {
-            background: var(--bg-card);
-            border: 1px solid #2e2e36;
-            border-radius: var(--radius-sm);
-            padding: 1rem 1.2rem;
-            margin-bottom: 0.6rem;
-            transition: all 0.2s;
-        }
-        .comment:hover {
-            background: var(--bg-card-hover);
-            border-color: rgba(121,103,255,0.2);
-        }
-        .comment-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 0.3rem;
-        }
-        .comment-author {
-            font-family: var(--font-mono);
-            font-size: 0.75rem;
-            color: var(--purple);
-        }
-        .comment-likes {
-            font-family: var(--font-mono);
-            font-size: 0.7rem;
-            color: var(--orange);
-        }
-        .comment-text { font-size: 0.9rem; color: var(--text-secondary); }
-        .comment-insight {
-            font-size: 0.8rem;
-            color: #ffe082;
-            margin-top: 0.4rem;
-            padding-left: 0.8rem;
-            border-left: 2px solid rgba(250,204,21,0.3);
-        }
-
-        /* Botoes */
-        .actions {
-            position: sticky;
-            bottom: 0;
-            background: var(--bg-dark);
-            border-top: 1px solid #2e2e36;
-            padding: 1rem 0;
-            display: flex;
-            gap: 0.6rem;
-            flex-wrap: wrap;
-        }
-        .btn {
-            border: none;
-            padding: 0.7rem 1.5rem;
-            border-radius: var(--radius-pill);
-            cursor: pointer;
-            font-family: var(--font-body);
-            font-size: 0.85rem;
-            font-weight: 600;
-            transition: all 0.25s;
-        }
-        .btn-save {
-            background: var(--gradient-btn);
-            background-size: 200% auto;
-            color: white;
-        }
-        .btn-save:hover {
-            background-position: right center;
-            transform: translateY(-1px);
-            box-shadow: 0 4px 15px rgba(255,77,0,0.3);
-        }
-        .btn-export {
-            background: var(--bg-card);
-            color: var(--purple);
-            border: 1px solid rgba(121,103,255,0.3);
-        }
-        .btn-export:hover {
-            background: var(--bg-card-hover);
-            border-color: var(--purple);
-        }
-        .btn-saved {
-            background: rgba(74,222,128,0.15);
-            color: #4ade80;
-            border: 1px solid rgba(74,222,128,0.3);
-            cursor: default;
-        }
-
-        /* Toast */
-        #toast {
-            position: fixed;
-            bottom: 5rem;
-            right: 2rem;
-            background: var(--bg-card);
-            border: 1px solid rgba(74,222,128,0.3);
-            color: #4ade80;
-            padding: 0.8rem 1.5rem;
-            border-radius: var(--radius-sm);
-            font-family: var(--font-body);
-            font-size: 0.85rem;
-            opacity: 0;
-            transition: opacity 0.3s;
-            pointer-events: none;
-            box-shadow: 0 4px 20px rgba(0,0,0,0.4);
-        }
-        #toast.show { opacity: 1; }
-
-        /* Footer */
-        .footer {
-            text-align: center;
-            padding: 1.5rem 0 0.5rem;
-            border-top: 1px solid #2e2e36;
-            margin-top: 1rem;
-        }
-        .footer p {
-            font-size: 0.7rem;
-            color: var(--text-muted);
-        }
-        .footer .brand {
-            font-family: var(--font-heading);
-            font-weight: 700;
-            background: var(--gradient-main);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-    </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Sofia · Dashboard de análises</title>
+  <style>
+    :root{color-scheme:dark;--bg:#101014;--card:#1a1a21;--line:#30303b;--text:#f5f3ef;--muted:#aaa6b2;--lime:#d9ff63;--violet:#a78bfa;--orange:#ff6b35}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.55 system-ui,-apple-system,sans-serif}.wrap{max-width:1180px;margin:auto;padding:36px 20px 80px}header{padding-bottom:24px;border-bottom:1px solid var(--line)}.eyebrow{color:var(--lime);font-size:11px;font-weight:900;letter-spacing:.16em;text-transform:uppercase}h1{font-size:clamp(34px,7vw,72px);line-height:1;margin:10px 0}h2{font-size:24px;margin:0 0 14px}h3{font-size:18px;margin:0 0 10px}.muted,.meta{color:var(--muted)}a{color:var(--violet)}nav{display:flex;gap:8px;overflow:auto;padding:18px 0;position:sticky;top:0;background:rgba(16,16,20,.96);z-index:3}nav a{white-space:nowrap;text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:8px 13px}.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px}.card{grid-column:span 6;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:20px}.wide{grid-column:1/-1}.summary{margin:26px 0}.video{scroll-margin-top:76px;border-top:1px solid var(--line);padding-top:30px;margin-top:38px}.video-head{display:flex;gap:18px;justify-content:space-between;align-items:flex-start;margin-bottom:18px}.score{font-size:42px;font-weight:900;color:var(--lime)}table{width:100%;border-collapse:collapse;min-width:680px}th,td{text-align:left;border-bottom:1px solid var(--line);padding:11px}th{color:var(--muted);font-size:12px}.table-wrap{overflow:auto}.frames{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:10px}.frame img{display:block;width:100%;border-radius:10px;border:1px solid var(--line)}.frame figcaption{color:var(--muted);font-size:12px;margin-top:5px}.timeline,.script,.comments{display:grid;gap:10px}.moment,.line,.comment{background:#131318;border:1px solid var(--line);border-radius:10px;padding:13px}.time{color:var(--violet);font-weight:800}.quote{border-left:3px solid var(--lime);padding-left:12px;margin-bottom:6px}.tag{display:inline-block;border:1px solid #4a4659;border-radius:999px;padding:2px 7px;margin:2px;font-size:11px;color:var(--violet)}.warning{border-left:3px solid var(--orange)}@media(max-width:760px){.card{grid-column:1/-1}.video-head{display:block}}
+  </style>
 </head>
-<body>
-    <div class="container">
+<body><main class="wrap">
+  <header><div class="eyebrow">Sofia · análise visual</div><h1>Dashboard de vídeos</h1><p class="meta" id="meta"></p></header>
+  <nav id="nav"></nav>
+  <section class="summary grid" id="summary"></section>
+  <div id="videos"></div>
+</main>
 
-        <!-- Header: preenchido pela Sofia -->
-        <div class="header">
-            <span class="sofia-badge">Sofia 2.0</span>
-            <h1 id="video-title"><!-- SOFIA:titulo --></h1>
-            <div class="meta">
-                <span id="video-criador"><!-- SOFIA:criador --></span> &middot;
-                <span id="video-plataforma"><!-- SOFIA:plataforma --></span> &middot;
-                <a id="video-link" href="#" target="_blank">Ver original</a>
-            </div>
-        </div>
-
-        <!-- Diagnóstico rápido -->
-        <div class="section">
-            <div class="section-title">Diagnóstico</div>
-            <div class="diagnostico" id="diagnostico">
-                <!-- SOFIA:diagnóstico -->
-                <p><strong>Ideia vendida:</strong> <span class="val">&mdash;</span></p>
-                <p><strong>Tamanho do tema:</strong> <span class="val">&mdash;</span></p>
-                <p><strong>O que carrega o vídeo:</strong> <span class="val">&mdash;</span></p>
-                <p><strong>O que poderia amplificar:</strong> <span class="val">&mdash;</span></p>
-            </div>
-        </div>
-
-        <!-- Hook -->
-        <div class="section">
-            <div class="section-title">Hook</div>
-            <div class="hook-card" id="hook-section">
-                <blockquote id="hook-texto"><!-- SOFIA:hook_texto --></blockquote>
-                <div style="margin-top: 0.8rem;" id="hook-tags">
-                    <!-- SOFIA:hook_principios (tags) -->
-                </div>
-                <p class="analise-texto" id="hook-analise"><!-- SOFIA:hook_análise --></p>
-                <span class="hook-nota" id="hook-nota"><!-- SOFIA:hook_nota -->/10</span>
-            </div>
-        </div>
-
-        <!-- Roteiro anotado frase a frase -->
-        <div class="section">
-            <div class="section-title">Roteiro Anotado</div>
-            <div id="roteiro-container">
-                <!-- SOFIA:roteiro_frases
-                     Para cada frase, gerar:
-                     <div class="frase-block">
-                         <div>
-                             <span class="principio-tag conflito">Conflito</span>
-                             <span class="principio-tag curiosidade">Curiosidade</span>
-                         </div>
-                         <p class="analise-texto">Explicação de por que essa frase funciona...</p>
-                         <p class="frase-texto">Texto original da frase do roteiro</p>
-                     </div>
-                -->
-            </div>
-        </div>
-
-        <!-- Comentários + Insights -->
-        <div class="section">
-            <div class="section-title">Comentários mais curtidos</div>
-            <div id="comentarios-container">
-                <!-- SOFIA:comentários
-                     Para cada comentario, gerar:
-                     <div class="comment">
-                         <div class="comment-header">
-                             <span class="comment-author">@usuario</span>
-                             <span class="comment-likes">&#9829; 1.2k</span>
-                         </div>
-                         <p class="comment-text">Texto do comentário</p>
-                         <p class="comment-insight">Insight: revela debate mental sobre X</p>
-                     </div>
-                -->
-            </div>
-        </div>
-
-        <!-- Acoes -->
-        <div class="actions">
-            <button class="btn btn-save" id="btn-salvar" onclick="salvarParaAprender()">
-                Salvar para aprender
-            </button>
-            <button class="btn btn-export" onclick="exportarMd()">
-                Exportar .md
-            </button>
-        </div>
-
-        <!-- Footer -->
-        <div class="footer">
-            <p><span class="brand">Sofia 2.0</span> &mdash; Criadores do Futuro</p>
-        </div>
-    </div>
-
-    <div id="toast"></div>
-
-    <script>
-        const análise = JSON.parse(localStorage.getItem('sofia-análise-atual') || 'null');
-
-        function toast(msg) {
-            const t = document.getElementById('toast');
-            t.textContent = msg;
-            t.classList.add('show');
-            setTimeout(() => t.classList.remove('show'), 2500);
-        }
-
-        function salvarParaAprender() {
-            const salvos = JSON.parse(localStorage.getItem('sofia-salvos') || '[]');
-            const item = {
-                data: new Date().toISOString(),
-                titulo: document.getElementById('video-title').textContent,
-                url: document.getElementById('video-link').href,
-                hook: document.getElementById('hook-texto').textContent,
-                diagnóstico: document.getElementById('diagnostico').innerText,
-                salvo: true
-            };
-            salvos.push(item);
-            localStorage.setItem('sofia-salvos', JSON.stringify(salvos));
-
-            const btn = document.getElementById('btn-salvar');
-            btn.className = 'btn btn-saved';
-            btn.textContent = 'Salvo para aprender';
-            btn.disabled = true;
-
-            toast('Salvo! Sofia vai incorporar hooks, referências e roteiro na próxima sessão.');
-        }
-
-        function exportarMd() {
-            const title = document.getElementById('video-title').textContent;
-            let md = `# ${title}\n\n`;
-
-            const diag = document.getElementById('diagnostico');
-            md += `## Diagnóstico\n\n${diag.innerText}\n\n`;
-
-            md += `## Hook\n\n> "${document.getElementById('hook-texto').textContent}"\n\n`;
-            md += `${document.getElementById('hook-analise').textContent}\n\n`;
-
-            md += `## Roteiro Anotado\n\n`;
-            document.querySelectorAll('.frase-block').forEach(fb => {
-                const tags = Array.from(fb.querySelectorAll('.principio-tag')).map(t => t.textContent).join(', ');
-                const análise = fb.querySelector('.analise-texto')?.textContent || '';
-                const frase = fb.querySelector('.frase-texto')?.textContent || '';
-                md += `[${tags}: ${análise}]\n${frase}\n\n`;
-            });
-
-            md += `## Comentários\n\n`;
-            document.querySelectorAll('.comment').forEach(c => {
-                const author = c.querySelector('.comment-author')?.textContent || '';
-                const likes = c.querySelector('.comment-likes')?.textContent || '';
-                const text = c.querySelector('.comment-text')?.textContent || '';
-                const insight = c.querySelector('.comment-insight')?.textContent || '';
-                md += `**${author}** ${likes}\n${text}\n`;
-                if (insight) md += `> ${insight}\n`;
-                md += `\n`;
-            });
-
-            const blob = new Blob([md], { type: 'text/markdown' });
-            const a = document.createElement('a');
-            a.href = URL.createObjectURL(blob);
-            a.download = `sofia-análise-${title.toLowerCase().replace(/\s+/g, '-').slice(0, 40)}.md`;
-            a.click();
-            toast('Exportado como .md');
-        }
-    </script>
-</body>
-</html>
+<!-- A Sofia substitui TODO o conteúdo deste bloco pelo lote atual ou pelo acervo acumulado. -->
+<script id="sofia-data" type="application/json">
+[
+  {
+    "id":"exemplo-1","titulo":"Exemplo 1","criador":"@criador","plataforma":"TikTok","url":"https://example.com/video-1","duracao":"00:30","rota":"A","metricas":{"views":1000,"curtidas":100,"comentarios":10,"compartilhamentos":5},"hook":{"nota":8,"texto":"Abertura do exemplo","analise":"Promete uma resposta clara sem entregar tudo."},"diagnostico":"Tema conhecido com uma tensão fácil de entender.","formato":"Palestrinha","estrutura":"IHC","variavelPrincipal":"Abertura específica","quadros":[],"linhaDoTempo":[],"imagemFala":"Imagem e fala se reforçam.","edicao":"Cortes acompanham as mudanças de ideia.","roteiro":[],"comentarios":[],"aprendizados":["Entre rápido no conflito."],"limitacoes":[]
+  },
+  {
+    "id":"exemplo-2","titulo":"Exemplo 2","criador":"@criador","plataforma":"Instagram","url":"https://example.com/video-2","duracao":"00:42","rota":"D","metricas":{"views":800,"curtidas":48,"comentarios":6,"compartilhamentos":2},"hook":{"nota":6,"texto":"Outra abertura","analise":"O assunto aparece, mas a tensão demora."},"diagnostico":"Boa ideia com começo genérico.","formato":"Lo-Fi","estrutura":"AIDA","variavelPrincipal":"Clareza da promessa","quadros":[],"linhaDoTempo":[],"imagemFala":"Só a capa foi confirmada.","edicao":"Não confirmada visualmente.","roteiro":[],"comentarios":[],"aprendizados":["Dizer o conflito na primeira frase."],"limitacoes":["Os quadros do meio não estavam acessíveis."]
+  }
+]
+</script>
+<script>
+  const data=JSON.parse(document.getElementById('sofia-data').textContent);
+  const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const n=v=>Number(v||0).toLocaleString('pt-BR');
+  const rate=v=>v.metricas?.views?((Number(v.metricas.curtidas||0)/Number(v.metricas.views))*100).toFixed(2)+'%':'—';
+  document.getElementById('meta').textContent=`${data.length} vídeo${data.length===1?'':'s'} · dashboard único`;
+  document.getElementById('nav').innerHTML=data.map((v,i)=>`<a href="#${esc(v.id||'video-'+i)}">${i+1}. ${esc(v.titulo)}</a>`).join('');
+  const best=[...data].sort((a,b)=>(b.hook?.nota||0)-(a.hook?.nota||0))[0];
+  document.getElementById('summary').innerHTML=`
+    <article class="card"><h2>Visão geral</h2><p>${data.length===1?'Uma análise completa.':'Comparação de '+data.length+' vídeos no mesmo lote.'}</p><p><strong>Melhor abertura:</strong> ${esc(best?.titulo)} (${esc(best?.hook?.nota)}/10)</p></article>
+    <article class="card"><h2>Principal diferença</h2><p>${esc(data.map(v=>v.variavelPrincipal).filter(Boolean).join(' · ')||'Preencher após comparar o lote.')}</p></article>
+    <article class="card wide table-wrap"><h2>Métricas lado a lado</h2><table><thead><tr><th>Vídeo</th><th>Views</th><th>Curtidas</th><th>Comentários</th><th>Compart.</th><th>Curtidas/views</th><th>Abertura</th></tr></thead><tbody>${data.map(v=>`<tr><td>${esc(v.titulo)}</td><td>${n(v.metricas?.views)}</td><td>${n(v.metricas?.curtidas)}</td><td>${n(v.metricas?.comentarios)}</td><td>${n(v.metricas?.compartilhamentos)}</td><td>${rate(v)}</td><td>${esc(v.hook?.nota)}/10</td></tr>`).join('')}</tbody></table></article>`;
+  document.getElementById('videos').innerHTML=data.map((v,i)=>`
+    <section class="video" id="${esc(v.id||'video-'+i)}">
+      <div class="video-head"><div><div class="eyebrow">${esc(v.plataforma)} · rota ${esc(v.rota)}</div><h2>${i+1}. ${esc(v.titulo)}</h2><div class="meta">${esc(v.criador)} · ${esc(v.duracao)} · <a href="${esc(v.url)}" target="_blank" rel="noreferrer">vídeo original</a></div></div><div class="score">${esc(v.hook?.nota)}/10</div></div>
+      <div class="grid">
+        <article class="card"><h3>Diagnóstico</h3><p>${esc(v.diagnostico)}</p><p class="muted">${esc(v.formato)} · ${esc(v.estrutura)}</p></article>
+        <article class="card"><h3>Abertura</h3><p class="quote">${esc(v.hook?.texto)}</p><p>${esc(v.hook?.analise)}</p></article>
+        ${v.quadros?.length?`<article class="card wide"><h3>Evidências visuais</h3><div class="frames">${v.quadros.map(q=>`<figure class="frame"><img src="${esc(q.src)}" alt="Quadro em ${esc(q.tempo)}"><figcaption>${esc(q.tempo)} · ${esc(q.descricao)}</figcaption></figure>`).join('')}</div></article>`:''}
+        ${v.linhaDoTempo?.length?`<article class="card wide"><h3>Linha do tempo</h3><div class="timeline">${v.linhaDoTempo.map(m=>`<div class="moment"><span class="time">${esc(m.tempo)}</span> ${esc(m.descricao)}</div>`).join('')}</div></article>`:''}
+        <article class="card"><h3>Imagem + fala</h3><p>${esc(v.imagemFala)}</p></article><article class="card"><h3>Edição e formato</h3><p>${esc(v.edicao)}</p></article>
+        <article class="card wide"><h3>Roteiro anotado</h3><div class="script">${(v.roteiro||[]).map(r=>`<div class="line"><div>${(r.tags||[]).map(t=>`<span class="tag">${esc(t)}</span>`).join('')}</div><p class="quote">${esc(r.frase)}</p><p class="muted">${esc(r.analise)}</p></div>`).join('')||'<p class="muted">Roteiro indisponível.</p>'}</div></article>
+        <article class="card"><h3>Comentários</h3><div class="comments">${(v.comentarios||[]).map(c=>`<div class="comment"><strong>${esc(c.autor)}</strong> · ${n(c.curtidas)}<p>${esc(c.texto)}</p><p class="muted">${esc(c.insight)}</p></div>`).join('')||'<p class="muted">Comentários indisponíveis.</p>'}</div></article>
+        <article class="card"><h3>O que aprender</h3><ul>${(v.aprendizados||[]).map(x=>`<li>${esc(x)}</li>`).join('')}</ul></article>
+        <article class="card wide warning"><h3>Limitações</h3><ul>${(v.limitacoes||[]).map(x=>`<li>${esc(x)}</li>`).join('')||'<li>Nenhuma limitação material registrada.</li>'}</ul></article>
+      </div>
+    </section>`).join('');
+</script>
+</body></html>
