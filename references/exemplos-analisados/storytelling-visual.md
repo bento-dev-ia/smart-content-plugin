@@ -1,19 +1,19 @@
-# Exemplos Analisados — Storytelling Visual
+# Exemplos Analisados: Storytelling Visual
 
 ## Exemplo 1: Acidente (Gato Preto e Bia Miranda)
 
-**Formato:** Storytelling visual — imagens ilustram o que ela fala
+**Formato:** Storytelling visual: imagens ilustram o que ela fala
 **Estrutura:** Escada emocional ascendente → Revelação → Moral com contraste
 
 ---
 
 > "Imagine a seguinte cena."
 
-(Curiosidade — visual) Imagem de acidente aparece enquanto fala. Efeito do acidente no trânsito: todo mundo para pra ver.
+(Curiosidade: visual) Imagem de acidente aparece enquanto fala. Efeito do acidente no trânsito: todo mundo para pra ver.
 
 > "O seu pai, um senhor, acordou cedo mesmo cansado só pra te levar na faculdade."
 
-(Identificação + Relevância Emocional) "Seu pai" — te coloca dentro da cena. Situação que muita gente viveu.
+(Identificação + Relevância Emocional) "Seu pai": te coloca dentro da cena. Situação que muita gente viveu.
 
 > "Ele dirige com calma, olha os sinais, respeita o trânsito."
 
@@ -21,7 +21,7 @@
 
 > "E de repente, um carro atravessa o sinal vermelho em alta velocidade, voltando da balada depois de uma noite inteira de bebida."
 
-(Contraste — forte) Calma → caos. Detalhes específicos (sinal vermelho, balada, noite inteira) fazem parecer real. Raiva e indignação.
+(Contraste: forte) Calma → caos. Detalhes específicos (sinal vermelho, balada, noite inteira) fazem parecer real. Raiva e indignação.
 
 > "Dentro desse carro é um casal rindo, fumando, gravando stories, vivendo como se não tivesse consequências nessa vida."
 
@@ -62,7 +62,7 @@
 ---
 
 ### Padrões pra aprender:
-1. "Seu pai" em vez de "um pai" — coloca a pessoa DENTRO da cena
+1. "Seu pai" em vez de "um pai": coloca a pessoa DENTRO da cena
 2. Escada emocional que só sobe, nunca desce
 3. Três detalhes em sequência pintam o quadro
 4. "E o pior" anuncia que vai subir mais

@@ -6,7 +6,7 @@ Toda a energia visual fica nos primeiros 3–6 segundos: ângulo estranho, close
 ## Assinatura visual
 - Quebra de padrão visual imediata
 - Contraste claro entre abertura elaborada e restante simples
-- Gancho sustentado por enquadramento, ação ou objeto — não só pela frase
+- Gancho sustentado por enquadramento, ação ou objeto, não só pela frase
 
 ## Estrutura que combina melhor
 AIDA ou IHC curto.

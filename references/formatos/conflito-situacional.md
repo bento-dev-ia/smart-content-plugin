@@ -1,7 +1,7 @@
 # Formato: Conflito Situacional
 
 ## O que é
-O vídeo abre com uma situação de conflito forte que parece real — discussão, ameaça, acidente, roubo, confronto ou urgência. O conflito funciona como porta de entrada; depois, o vídeo pode revelar a encenação e migrar para explicação, analogia ou conversa.
+O vídeo abre com uma situação de conflito forte que parece real: discussão, ameaça, acidente, roubo, confronto ou urgência. O conflito funciona como porta de entrada; depois, o vídeo pode revelar a encenação e migrar para explicação, analogia ou conversa.
 
 ## Assinatura visual
 - Ação ou tensão já nos primeiros segundos

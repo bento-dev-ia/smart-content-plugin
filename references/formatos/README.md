@@ -1,19 +1,19 @@
 # Formatos de Gravação
 
-Este é o eixo **"COMO se grava"** do modelo de 4 eixos da Sofia. Até aqui ele era citado (`knowledge/arquetipos-nichos-bolhas.md`) mas não tinha referência própria — esta pasta preenche isso.
+Este é o eixo **"COMO se grava"** do modelo de 4 eixos da Sofia. Até aqui ele era citado (`knowledge/arquetipos-nichos-bolhas.md`) mas não tinha referência própria: esta pasta preenche isso.
 
 ## Os 4 eixos (não confundir)
 
 | Eixo | Pergunta | Onde vive |
 |---|---|---|
-| **Princípios da viralização** | POR QUE funciona | [`../principios.md`](../principios.md) — é a lei; tudo passa por aqui |
-| **Estrutura de roteiro** | COMO o argumento se organiza | [`../estruturas-de-roteiro/`](../estruturas-de-roteiro/README.md) — as 5: AIDA, IHC, Jeito Errado × Jeito Certo, Ele/Eu/Você/Futuro, Análise |
-| **Arquétipo de conteúdo** | QUAL ângulo já provou pegar | [`../../knowledge/arquetipos-nichos-bolhas.md`](../../knowledge/arquetipos-nichos-bolhas.md) — A1 a A15 (série, newsjacking, listicle, esquete, hot-take...) |
+| **Princípios da viralização** | POR QUE funciona | [`../principios.md`](../principios.md): é a lei; tudo passa por aqui |
+| **Estrutura de roteiro** | COMO o argumento se organiza | [`../estruturas-de-roteiro/`](../estruturas-de-roteiro/README.md), as 5: AIDA, IHC, Jeito Errado × Jeito Certo, Ele/Eu/Você/Futuro, Análise |
+| **Arquétipo de conteúdo** | QUAL ângulo já provou pegar | [`../../knowledge/arquetipos-nichos-bolhas.md`](../../knowledge/arquetipos-nichos-bolhas.md): A1 a A15 (série, newsjacking, listicle, esquete, hot-take...) |
 | **Formato de gravação** (ESTA pasta) | COMO se grava e monta | Tela dividida, narrado, cine, palestrinha... |
 
 Os elementos que prendem em **cada frase** (contraste, conflito, curiosidade) vivem em [`../elementos-viciantes/`](../elementos-viciantes/README.md) e atravessam os quatro eixos.
 
-Um roteiro tem os quatro ao mesmo tempo. O formato é o que muda as **regras de escrita** — a mesma estrutura escrita para "narrado" e para "palestrinha" resulta em roteiros diferentes.
+Um roteiro tem os quatro ao mesmo tempo. O formato é o que muda as **regras de escrita**: a mesma estrutura escrita para "narrado" e para "palestrinha" resulta em roteiros diferentes.
 
 ## Formatos disponíveis
 
@@ -43,7 +43,7 @@ Um roteiro tem os quatro ao mesmo tempo. O formato é o que muda as **regras de 
 | [Narrador](narrador.md) | Personagem em cena reage a narrador off-screen | Diálogo curto / IHC |
 | [Formato Combinado](formato-combinado.md) | Funde dois formatos reconhecíveis com intenção | Depende da combinação |
 
-> Nota honesta, no mesmo espírito de `arquetipos-nichos-bolhas.md`: as 5 estruturas da Sofia são de monólogo/narração. Nos formatos de esquete/diálogo (**Diálogo**, **The Office**) a estrutura sugerida é aproximação — nesses, aplique os princípios direto.
+> Nota honesta, no mesmo espírito de `arquetipos-nichos-bolhas.md`: as 5 estruturas da Sofia são de monólogo/narração. Nos formatos de esquete/diálogo (**Diálogo**, **The Office**) a estrutura sugerida é aproximação: nesses, aplique os princípios direto.
 
 ## Como escolher
 
