@@ -1,9 +1,9 @@
 # Formato: Análise
 
-> Eixo **formato de gravação** (COMO se grava). Não confundir com a **estrutura** (a sequência do argumento: `references/estruturas-de-roteiro/`) nem com o **arquétipo** (o ângulo: `knowledge/arquetipos-nichos-bolhas.md`). Um roteiro tem os três.
+> Eixo **formato de gravação** (COMO se grava). Não confundir com a **estrutura** (a sequência do argumento — `references/estruturas-de-roteiro/`) nem com o **arquétipo** (o ângulo — `knowledge/arquetipos-nichos-bolhas.md`). Um roteiro tem os três.
 
 ## O que é
-O criador interpreta uma pessoa, marca, estratégia, tendência ou personagem reconhecível. Há material visual do sujeito analisado e a fala revela causa, padrão ou significado, não apenas descreve ou reage. O analisado entrega o entretenimento (as punchlines saem da boca dele, em clipes curtos); quem apresenta nomeia o mecanismo; o espectador recebe a lição.
+O criador interpreta uma pessoa, marca, estratégia, tendência ou personagem reconhecível. Há material visual do sujeito analisado e a fala revela causa, padrão ou significado — não apenas descreve ou reage. O analisado entrega o entretenimento (as punchlines saem da boca dele, em clipes curtos); quem apresenta nomeia o mecanismo; o espectador recebe a lição.
 
 ## Assinatura visual
 - Abre com um clipe do analisado, sem apresentação antes

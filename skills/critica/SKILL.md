@@ -1,5 +1,4 @@
 ---
-name: critica
 description: Faz análise crítica concisa de um roteiro — mostra o que funciona, o que não funciona, e como melhorar. Com princípios nomeados e sugestões práticas.
 ---
 

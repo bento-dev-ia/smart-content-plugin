@@ -1,71 +1,71 @@
 # Estrutura Jeito Errado x Jeito Certo
 
-**Conflito > Jeito Errado > Processo de Virada > Jeito Certo > Mudança**
+**Conflito > Jeito Errado > Processo de Virada > Jeito Certo > Mudanca**
 
-## Visão Geral
+## Visao Geral
 
-Você mostra o erro, explica por que é furada, e apresenta a solução. É como dizer: "Você faz assim, né? Só que desse jeito não dá certo. Olha como dá pra fazer melhor."
+Voce mostra o erro, explica por que e furada, e apresenta a solucao. E como dizer: "Voce faz assim, ne? So que desse jeito nao da certo. Olha como da pra fazer melhor."
 
-Gera identificação, entrega valor e posiciona autoridade, tudo no mesmo vídeo.
+Gera identificacao, entrega valor e posiciona autoridade — tudo no mesmo video.
 
 ## Etapas
 
 ### 1. Conflito
 
-Um problema inicial que desequilibra a vida do personagem (ou do público).
+Um problema inicial que desequilibra a vida do personagem (ou do publico).
 
-**Exemplo:** Não gostar do que vê no espelho.
+**Exemplo:** Nao gostar do que ve no espelho.
 
 ### 2. Jeito Errado
 
-A tentativa falha de resolver o problema. É o que a maioria das pessoas faz e não funciona.
+A tentativa falha de resolver o problema. E o que a maioria das pessoas faz e nao funciona.
 
-**Exemplo:** Fazer jejum intermitente sem orientação.
+**Exemplo:** Fazer jejum intermitente sem orientacao.
 
 ### 3. Processo de Virada
 
 O momento de descoberta ou virada de chave. O que fez a pessoa mudar de abordagem.
 
-**Exemplo:** Descobrir uma dieta que funciona pra você.
+**Exemplo:** Descobrir uma dieta que funciona pra voce.
 
 ### 4. Jeito Certo
 
-A nova abordagem, prática ou mentalidade que realmente funciona.
+A nova abordagem, pratica ou mentalidade que realmente funciona.
 
-**Exemplo:** Dieta ajustada à sua realidade, mais saudável.
+**Exemplo:** Dieta ajustada a sua realidade, mais saudavel.
 
-### 5. Mudança
+### 5. Mudanca
 
-Os resultados visíveis. A transformação concreta.
+Os resultados visiveis. A transformacao concreta.
 
 **Exemplo:** Sentir orgulho do reflexo no espelho.
 
 ## Resumo em 1 linha
 
-Ao invés de [erro comum], faça [caminho inteligente].
+Ao inves de [erro comum], faca [caminho inteligente].
 
-**Exemplo:** "Não escreva seu roteiro como se fosse um desabafo confuso. Escreva como quem sabe exatamente onde quer chegar."
+**Exemplo:** "Nao escreva seu roteiro como se fosse um desabafo confuso. Escreva como quem sabe exatamente onde quer chegar."
 
 ## Por que funciona
 
-- Gera **clareza cognitiva** (o cérebro AMA contraste)
-- Constrói **autoridade sem arrogância**
-- Ajuda o público a se enxergar e querer mudar
-- Funciona em Reels, carrossel, post, vídeo tutorial, narração, tudo
-- É **repetível**: vira base para um formato criativo seu
+- Gera **clareza cognitiva** (o cerebro AMA contraste)
+- Constroi **autoridade sem arrogancia**
+- Ajuda o publico a se enxergar — e querer mudar
+- Funciona em Reels, carrossel, post, video tutorial, narracao, tudo
+- E **repetivel** — vira base para um formato criativo seu
 
 ## Como aplicar no seu roteiro
 
-1. Escolha uma dor do seu público
+1. Escolha uma dor do seu publico
 2. Mostre o "jeito errado" que ele costuma usar
-3. Traga sua virada de chave (o que você aprendeu, testou, descobriu)
+3. Traga sua virada de chave (o que voce aprendeu, testou, descobriu)
 4. Apresente o "jeito certo"
-5. Feche com a mudança que isso gera (emocional ou prática)
+5. Feche com a mudanca que isso gera (emocional ou pratica)
 
-## Checklist rápido
+## Checklist rapido
 
-- [ ] O conflito é uma dor real do público?
-- [ ] O jeito errado é algo que o público reconhece que faz?
-- [ ] A virada é crível e específica?
-- [ ] O jeito certo é claro e aplicável?
-- [ ] A mudança mostra resultado concreto?
+- [ ] O conflito e uma dor real do publico?
+- [ ] O jeito errado e algo que o publico reconhece que faz?
+- [ ] A virada e crivel e especifica?
+- [ ] O jeito certo e claro e aplicavel?
+- [ ] A mudanca mostra resultado concreto?

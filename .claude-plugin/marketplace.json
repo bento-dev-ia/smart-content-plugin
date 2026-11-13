@@ -5,12 +5,13 @@
     "name": "srbentostk"
   },
   "metadata": {
-    "description": "Plugins por srbentostk"
+    "description": "Plugins por srbentostk",
+    "homepage": "https://github.com/srbentostk/smart-content-plugin"
   },
   "plugins": [
     {
       "name": "sofia",
-      "version": "3.10.1",
+      "version": "2.5.0",
       "source": "./",
       "description": "Plugin inteligente para pesquisa de vídeos virais e escrita de roteiros, guiado por princípios de Psicologia Cognitiva do Engajamento.",
       "author": {

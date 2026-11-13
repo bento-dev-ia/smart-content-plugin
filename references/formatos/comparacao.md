@@ -1,15 +1,9 @@
 # Formato: Comparação
 
-> Eixo **formato de gravação** (COMO se grava). Não confundir com a **estrutura** (a sequência do argumento: `references/estruturas-de-roteiro/`) nem com o **arquétipo** (o ângulo: `knowledge/arquetipos-nichos-bolhas.md`). Um roteiro tem os três.
+> Eixo **formato de gravação** (COMO se grava). Não confundir com a **estrutura** (a sequência do argumento — `references/estruturas-de-roteiro/`) nem com o **arquétipo** (o ângulo — `knowledge/arquetipos-nichos-bolhas.md`). Um roteiro tem os três.
 
 ## O que é
 Criador compara duas opções, abordagens, pessoas ou situações de forma estruturada, revelando qual é melhor (e por quê) com base em evidências.
-
-## Assinatura visual
-- Duas opções lado a lado ou em sequência: dois produtos, dois jeitos, antes e depois
-- Marcas visuais de oposição: tela partida, ✗ e ✓, cores diferentes para cada lado
-- Critérios aparecem um por um, como texto na tela ou falados
-- Um veredito claro no fim, dito ou mostrado
 
 ## Estrutura que combina melhor
 [Análise](../estruturas-de-roteiro/analise.md) + Contraste
@@ -23,17 +17,12 @@ Contraste inesperado que opõe os dois elementos na primeira frase de forma que 
 ## Regras de escrita
 1. Apresente os dois lados com equidade antes de revelar a conclusão
 2. Use critérios claros e verificáveis para a comparação
-3. Cada critério comparado deve escalar o contraste, do mais superficial ao mais profundo
+3. Cada critério comparado deve escalar o contraste — do mais superficial ao mais profundo
 4. Nunca revele qual é "o melhor" antes de construir a comparação completa
-5. Use exemplos reais para cada lado: não compare no abstrato
+5. Use exemplos reais para cada lado — não compare no abstrato
 6. A virada narrativa é o critério decisivo que muda tudo
 7. A moral deve ser a lição que emerge da comparação, não a preferência pessoal do criador
 8. O CTA deve convidar o espectador a aplicar o critério decisivo na própria vida
-
-## Não confundir
-- Tela Dividida: a tela partida mostra conteúdo externo sendo comentado; na Comparação os dois lados são as opções comparadas.
-- Análise: interpreta um sujeito só; Comparação precisa de dois lados com critério.
-- Jeito Errado × Jeito Certo é estrutura de roteiro, não formato: pode ser gravado em Palestrinha e não virar Comparação.
 
 ## Exemplo analisado
 Ainda não há roteiro deste formato anotado em `references/exemplos-analisados/`. Quando um vídeo deste formato for analisado com `/sofia:analisar`, o **aprendiz** pode adicionar o exemplo lá.

@@ -1,72 +1,72 @@
 # Estrutura IHC
 
-**Identificação > História > Conteúdo**
+**Identificacao > Historia > Conteudo**
 
-## Visão Geral
+## Visao Geral
 
-Conduz o cérebro da audiência em três etapas: primeiro chama atenção (Identificação), depois cria conexão (História), por fim planta uma ideia (Conteúdo). É como contar uma história onde a pessoa se vê, se emociona e sai com uma ideia na cabeça.
+Conduz o cerebro da audiencia em tres etapas: primeiro chama atencao (Identificacao), depois cria conexao (Historia), por fim planta uma ideia (Conteudo). E como contar uma historia onde a pessoa se ve, se emociona e sai com uma ideia na cabeca.
 
 ## Etapas
 
-### 1. Identificação
+### 1. Identificacao
 
-Você entra na mente da pessoa. O objetivo é fazer ela pensar:
+Voce entra na mente da pessoa. O objetivo e fazer ela pensar:
 
-- "Eu já me senti assim"
+- "Eu ja me senti assim"
 - "Parece que ela ta lendo minha mente..."
 
-Para isso, você precisa conhecer bem o seu público. Pode falar de:
+Para isso, voce precisa conhecer bem o seu publico. Pode falar de:
 
 - Cultura pop
 - Rotina
-- Inseguranças
+- Insegurancas
 - Vontades
 - Sentimentos universais
 
-**Dicas práticas:**
-- Use palavras que o seu público usaria
+**Dicas praticas:**
+- Use palavras que o seu publico usaria
 - Escreva como se estivesse contando pra uma amiga no WhatsApp
 
-### 2. História
+### 2. Historia
 
-Aqui é onde você faz a mágica acontecer. Compartilhe um momento seu (ou de alguém), com começo, meio e fim. Não é só o que aconteceu: é como aquilo te atravessou.
+Aqui e onde voce faz a magica acontecer. Compartilhe um momento seu (ou de alguem), com comeco, meio e fim. Nao e so o que aconteceu — e como aquilo te atravessou.
 
-A história precisa ter:
+A historia precisa ter:
 
-- **Conflito:** algo deu errado
-- **Virada:** o que mudou?
-- **Consequência:** o que isso ensinou?
+- **Conflito** — algo deu errado
+- **Virada** — o que mudou?
+- **Consequencia** — o que isso ensinou?
 
 **Exemplo:**
-"Eu já postei mais de 100 vídeos e nenhum engajava. Até que um dia eu percebi que estava tentando parecer alguém que eu não era. Quando comecei a escrever com o coração, meu conteúdo explodiu."
+"Eu ja postei mais de 100 videos e nenhum engajava. Ate que um dia eu percebi que estava tentando parecer alguem que eu nao era. Quando comecei a escrever com o coracao, meu conteudo explodiu."
 
-### 3. Conteúdo
+### 3. Conteudo
 
-Agora que você capturou atenção e gerou emoção, é hora de plantar a semente. Você pode:
+Agora que voce capturou atencao e gerou emocao, e hora de plantar a semente. Voce pode:
 
-- Dar um insight ("o problema nunca foi você, foi a forma que te ensinaram")
-- Dar uma dica prática
-- Fazer uma provocação
-- Fazer um CTA escondido ("E é por isso que eu ensino estrutura de roteiro com tanta paixão dentro da minha comunidade.")
+- Dar um insight ("o problema nunca foi voce — foi a forma que te ensinaram")
+- Dar uma dica pratica
+- Fazer uma provocacao
+- Fazer um CTA escondido ("E e por isso que eu ensino estrutura de roteiro com tanta paixao dentro da minha comunidade.")
 
-**Importante:** O conteúdo não precisa ser técnico. Precisa ser emocionalmente relevante para a bolha que você está tentando furar. A moral da história é a semente que você quer plantar na cabeça de quem assistiu.
+**Importante:** O conteudo nao precisa ser tecnico. Precisa ser emocionalmente relevante para a bolha que voce esta tentando furar. A moral da historia e a semente que voce quer plantar na cabeca de quem assistiu.
 
 ## Resumo
 
-- **I (Identificação):** "Você também já passou por isso, né?"
-- **H (História):** "Eu vivi isso aqui... ou Fulano já viveu isso aqui..."
-- **C (Conteúdo):** "E o que aprendi com isso foi..."
+- **I — Identificacao:** "Voce tambem ja passou por isso, ne?"
+- **H — Historia:** "Eu vivi isso aqui... ou Fulano ja viveu isso aqui..."
+- **C — Conteudo:** "E o que aprendi com isso foi..."
 
 ## Quando usar
 
-- Criar conexão sem parecer que está "vendendo" algo
-- Posicionar sua história como parte de uma mensagem maior
-- Ensinar sem parecer didático demais
+- Criar conexao sem parecer que esta "vendendo" algo
+- Posicionar sua historia como parte de uma mensagem maior
+- Ensinar sem parecer didatico demais
 - Plantar ideias e valores de forma emocional
 
-## Checklist rápido
+## Checklist rapido
 
-- [ ] A identificação faz o público pensar "sou eu"?
-- [ ] A história tem conflito, virada e consequência?
-- [ ] O conteúdo planta uma semente clara na cabeça do público?
-- [ ] O tom é conversacional (não parece aula)?
+- [ ] A identificacao faz o publico pensar "sou eu"?
+- [ ] A historia tem conflito, virada e consequencia?
+- [ ] O conteudo planta uma semente clara na cabeca do publico?
+- [ ] O tom e conversacional (nao parece aula)?

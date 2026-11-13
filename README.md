@@ -15,14 +15,6 @@ O plugin funciona tanto na aba **Code** quanto na aba **Cowork**.
 
 ### Via linha de comando
 
-Dentro do Claude Code, em um passo:
-
-```
-/plugin install sofia --marketplace srbentostk/smart-content-plugin
-```
-
-Ou pelo terminal:
-
 ```bash
 claude plugin marketplace add https://github.com/srbentostk/smart-content-plugin
 claude plugin install sofia
@@ -38,7 +30,7 @@ claude plugin install sofia
 
 Na primeira vez, digite `/sofia:setup`. A Sofia vai:
 1. Verificar dependências (yt-dlp, Node.js)
-2. Oferecer integrações opcionais (Apify para comentários; Gemini para vídeo nativo)
+2. Pedir API keys necessárias (Apify para Instagram/TikTok)
 3. Configurar output path
 4. Testar conectividade
 
@@ -47,13 +39,7 @@ Na primeira vez, digite `/sofia:setup`. A Sofia vai:
 ### Analisar vídeo
 > "Analisa esse vídeo: [link]"
 
-O sistema baixa o vídeo, inspeciona visualmente cenas e linha do tempo, cruza imagem com fala e comentários, e analisa quais princípios estão sendo aplicados. YouTube, Instagram e TikTok seguem o mesmo fluxo; links restritos podem exigir os cookies do navegador.
-
-### Análise visual
-
-- Padrão: local, sem API key, com `yt-dlp` + `ffmpeg` e leitura dos quadros pelo Claude.
-- Opcional: vídeo completo enviado ao Gemini quando `GEMINI_API_KEY` estiver configurada e o usuário autorizar.
-- TikTok: aceita links completos e links curtos `vm.tiktok.com`/`vt.tiktok.com`.
+O sistema extrai transcrição, comentários, e analisa frase a frase quais princípios estão sendo aplicados.
 
 ### Escrever roteiro
 > "Quero escrever um roteiro sobre [tema] para [nicho]"
